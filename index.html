@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brainport Jobs - Archive Explorer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="control-bar">
+        <a href="https://brainporteindhoven.com/en/discover-brainport/work/current-tech-it-vacancies-in-brainport-eindhoven"
+            target="_blank" class="title-link">
+            <div class="title">Brainport Jobs</div>
+        </a>
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Search across all columns..." autofocus>
+        </div>
+        <div id="stats" class="stats">Loading...</div>
+        <button id="exportBtn" class="btn-export" title="Export current search to CSV">Export CSV</button>
+    </div>
+
+    <div class="table-container">
+        <table id="jobsTable">
+            <thead>
+                <tr>
+                    <th class="col-title">TITLE</th>
+                    <th class="col-company">COMPANY</th>
+                    <th class="col-location">LOCATION</th>
+                    <th class="col-description">DESCRIPTION</th>
+                    <th class="col-date">DATE</th>
+                    <th class="col-link">LINK</th>
+                </tr>
+            </thead>
+            <tbody id="tableBody">
+                <!-- Rows injected here -->
+            </tbody>
+        </table>
+    </div>
+
+
+    <script src="app.js"></script>
+</body>
+
+</html>
