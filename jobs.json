@@ -1,6 +1,294 @@
 {
-    "last_updated": "2026-03-25 01:50:36",
+    "last_updated": "2026-03-26 01:56:58",
     "jobs": [
+        {
+            "title": "Internship: Marketing & Marketing Communication",
+            "company": "Koninklijke Philips N.V.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-25",
+            "language": "en",
+            "featured": false,
+            "url": "https://magnet.me/en/opportunity/977965/internship--marketing---marketing-communication",
+            "description": "* As a Product Marketing Intern, you will work with our global team to bring meaningful innovations that enhance consumer experiences. You'll collaborate to translate market and consumer insights into winning product concepts, support the development of new products, and work with global teams on product launches from idea to market introduction. * As an Analytics and Insights intern, you wil"
+        },
+        {
+            "title": "Quality Trainee Europe C&R",
+            "company": "Koninklijke Philips N.V.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-25",
+            "language": "en",
+            "featured": false,
+            "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Quality-Trainee-Europe-C-R_578733",
+            "description": "Support Corrections & Removals activities in the Post Market Surveillance area: * Support in Field Safety Notice communication to customers and performing of C&R due diligence activities. * Management of customers' replies * Management of Quality Work Orders in the Philips tool, The Intern, is responsible for managing a dedicated departmental support process which has an indirect im"
+        },
+        {
+            "title": "Internship | Electrocatalytic CO  Reduction for Next-Generation E-Fuels",
+            "company": "TNO",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-25",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=1da79167e23ae619",
+            "description": "You will take an active role in both research and development, combining experimental work with scientific analysis. Your activities will include: Getting started and building knowledge * Explore the latest literature on CO electroreduction and synthetic fuel pathways * Understand catalyst materials, especially copper based systems for ethylene production * Learn about elect"
+        },
+        {
+            "title": "Operation Engineer",
+            "company": "Thermo Fisher Scientific Inc.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-25",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=a18a0d606630299e",
+            "description": "As an Engineer I, Operations Engineer, you'll play a vital role in ensuring our high-tech Transmission Electron Microscopes (TEMs) are manufactured to the highest quality standards. Your work will help scientists and engineers make breakthrough discoveries in nanotechnology, materials science, and life sciences. You'll collaborate across teams to streamline production processes, improve efficiency"
+        },
+        {
+            "title": "Controlling Intern",
+            "company": "Fluke",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-25",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=e37851231073ed8c",
+            "description": "* Support the various internal and external compliance audits (e.g., SOX, IA, ACP) in close cooperation with the other controlling team members. * Assistance in monthly US GAAP reporting and support a proper month-end closing cycle (Journal Entry, Report preparation) * Support in monthly Balance Sheet reviews. * Assistance in preparing the annual budget cycle for the assigned cost c"
+        },
+        {
+            "title": "Computer Science | Physics Internship: application development for scanner performance",
+            "company": "ASML",
+            "location": "Veldhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-25",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=a87c60420d0cb85f",
+            "description": "We are building an automated data-processing pipeline that converts raw scanner sensor data into performance predictions for imaging. Today this workflow involves multiple extraction and conversion steps that are time-consuming and not fully standardized. Our goal is to bring all imaging-related data analysis into a single, robust application for future performance assessments. As an intern, you w"
+        },
+        {
+            "title": "Firmware Engineer",
+            "company": "Brunel International N.V.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-25",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.brunel.net/en-nl/jobs/firmware-engineer-tr-282313",
+            "description": "As a Senior Firmware Engineer, you will be responsible for the embedded software development of electronic products from concept through final testing and validation. The role involves close collaboration with hardware, system, and test engineers and an active contribution to system-level design. What are you going to do The majority of development is focused on embedded C for real-time syste"
+        },
+        {
+            "title": "Automotive Systems Engineer",
+            "company": "TMC",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-25",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=e2806c731b4e3563",
+            "description": "As an Automotive Systems Engineer, you will work on the design, integration, and optimization of complex vehicle systems, bridging mechanical, electronic, and software domains. Your focus will be on ensuring that subsystems such as powertrain, chassis, steering, braking, and vehicle electronics work seamlessly together to meet performance, safety, and reliability requirements. You will operate at"
+        },
+        {
+            "title": "Spotfire Business Analyst",
+            "company": "Randstad",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-25",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.randstad.nl/vacatures/9204171/spotfire-business-analyst",
+            "description": "Introduction to the job As a Business Intelligence Analyst you will develop data models and support the generation of data insights for EF. You will mainly be using Spotfire to enable value creation for ASML and its customers. You will become part of the EF Business Intelligence & Analytics team, which is part of the EUV Factory's Operational Excellence - Business Engineering department. T"
+        },
+        {
+            "title": "Internship | Building graphical simulations to validate executable LSAT models",
+            "company": "TNO",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-25",
+            "language": "en",
+            "featured": false,
+            "url": "https://magnet.me/en/opportunity/985031/internship---building-graphical-simulations-to-validate-executable-lsat-models",
+            "description": "You will, of course, be properly supervised during your work placement and be given the scope for you to get the best out of yourself. Furthermore, we provide: * A highly professional, innovative internship environment, within a team of top experts. * A suitable internship allowance (615 euro for wo-, hbo- and mbo-students, for a full-time internship). * Possibility of eight hours o"
+        },
+        {
+            "title": "Internship: 6G Wireless Communication Research",
+            "company": "Koninklijke Philips N.V.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-25",
+            "language": "en",
+            "featured": false,
+            "url": "https://magnet.me/en/opportunity/985112/internship--6g-wireless-communication-research",
+            "description": "As a 6G Wireless Communication Research Intern, you will contribute to the research, design, and evaluation of innovative communication technologies and support the standardization of next-generation wireless systems. Your role As an intern within the Philips IP&S Corporate Standardization Department, you will contribute to the development of new standards aligned with Philips' strategic n"
+        },
+        {
+            "title": "Control Systems Engineer",
+            "company": "TMC",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-25",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=1e5e1cfc952b60e5",
+            "description": "As a Control Systems Engineer, you will focus on the design, development, and optimization of advanced control systems for high-tech and industrial applications. You will work at the interface of hardware and software, translating system requirements into reliable and high-performance control solutions. In this role, you collaborate with multidisciplinary teams to deliver robust and scalable syste"
+        },
+        {
+            "title": "Manufacturing Manager",
+            "company": "Ame",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-24",
+            "language": "en",
+            "featured": false,
+            "url": "https://career.ame.nu/o/manufacturing-manager",
+            "description": "You are accountable for the overall factory performance in a low-volume, high-mix environment where quality, flexibility, and reliability are critical. You lead approximately 80 FTE through 4 Production Managers, report to the Operations Manager, and are part of the Operations Management Team. In this role, you: o Lead multiple manufacturing departments and ensure strong"
+        },
+        {
+            "title": "CNC-machinebediener (exclusief programmeren)",
+            "company": "Engineering & Operations",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-24",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68557523",
+            "description": "Are you an experienced CNC Kanter looking for a new challenge in a high-tech environment? Would you like to be part of a dynamic team where your expertise truly makes a difference?"
+        },
+        {
+            "title": "PhD",
+            "company": "Eindhoven University of Technology",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-24",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=ca232ad935ee15ce",
+            "description": "Are you fascinated by scientific and technological innovations in mechano-driven cartilage tissue engineering? Are you driven to develop novel in silico frameworks that deepen mechanistic understanding of tissue growth and inform in vitro experiments? Then you might be our next PhD candidate! Information Functional and durable regeneration of articular cartilage is still an unsolved challen"
+        },
+        {
+            "title": "Software engineer",
+            "company": "Synopsys",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-24",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68553703",
+            "description": "At Synopsys, we drive the innovations that shape the way we live and connect. Our technology is central to the Era of Pervasive Intelligence, from self-driving cars to learning machines. We lead in chip design, verification, and IP integration, empowering the creation of high-performance silicon chips and software content. Join us to transform the future through continuous technological innovation"
+        },
+        {
+            "title": "Projectleider ict",
+            "company": "GXO Logistics, Inc.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-24",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68552679",
+            "description": "Are you an expert in the field of WMS, CMS and EDI/API? And do you have experience in managing large projects for logistic warehouse processes? Then at GXO we are looking for you as IT Project Manager! What you do on a typical day As IT Project Manager, you are constantly working on the implementation of IT applications for existing and new customers of GXO. In cooperation with our Sales / E"
+        },
+        {
+            "title": "R&D Analyst",
+            "company": "Shanx Medtech Bv (sxmt, Nl)",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-24",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.careerjet.nl/jobad/nl36efb6aa90e68902793f0f4a28c438bf",
+            "description": "As an R&D Analyst at SXMT you will be responsible for the assessment of the novel devices with a variety of (body) samples including (infectious) material. The role of the R&D Analyst is pivotal in driving research efforts, generating scientific insights, and advancing the development of a novel system to address unmet medical needs and improve patient care. This is a full-time contract for 40"
+        },
+        {
+            "title": "FPGA Engineer",
+            "company": "Brunel International N.V.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-24",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.brunel.net/nl-nl/jobs/senior-fpga-engineer-tr-282157",
+            "description": "Design cutting-edge FPGA solutions that directly contribute to advanced healthcare technologies. In this role, you will work on high-speed data processing and complex signal challenges within an international engineering environment. You'll have the opportunity to deepen your technical expertise while contributing to meaningful innovations. What are you going to do * You design, implement a"
+        },
+        {
+            "title": "Schoonheidsspecialist",
+            "company": "ROOM108",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-24",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68559651",
+            "description": "We are looking for an enthusiastic, experienced sales advisor and not just any one, but someone who, with passion and feeling for interior design and a lot of commercial insight, ensures that customers feel welcome in our store. You are one of our business cards and are therefore partly responsible for ensuring that customers leave the store happy! So are you commercially strong, a real salespe"
+        },
+        {
+            "title": "MIG / MAG-lasser (niveau 1&2)",
+            "company": "Uitzendbureau Euro Planit",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-24",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68550695",
+            "description": "Do you enjoy working with metal and delivering precise work? In this position as a MIG MAG Welder Composer, you will work on high-quality constructions within a technical production environment. You read drawings, weld parts and ensure that everything is right down to the last detail. You work in two shifts and receive an extra allowance. Are you looking for a job in which your craftsmanship is ce"
+        },
+        {
+            "title": "CNC-machinebediener (exclusief programmeren)",
+            "company": "Maintec B.V.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-24",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68551302",
+            "description": "Eindhoven Various Vocational 500 - 550 Junior (1 - 3 years of work experience) Do you have experience working with CNC machines and enjoy technical, hands-on work? We are looking for a CNC Operator to join a modern production environment in Nuenen. You will work with advanced CNC machines and contribute to the production of high-quality industrial packaging. What are you going to do? As a"
+        },
+        {
+            "title": "CNC-machinebediener (exclusief programmeren)",
+            "company": "WerkTalent",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-24",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.jobsonline.nl/vacature/cnc-operator-wood-2-shifts-yy3105-bruto-eindhoven/",
+            "description": "Working with wood is your passion - it's what excites you most! You take pride in your work and enjoy being responsible for your own machine. If you have experience with woodworking machinery and are looking for a new challenge in a friendly and hands-on environment, this could be the perfect opportunity. As a Machine Woodworker, you will handle wood and sheet materials, preparing them for pro"
+        },
+        {
+            "title": "intern",
+            "company": "DAF Trucks N.V.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-24",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.connexys.nl/dafsite/page.html?p_sfw_id=22&adv_pub_id=1&adv_adv_id=163068&adv_taal=2&p_taal=2",
+            "description": "As an intern (Dutch: meewerk-stagiair(e)) in the Management Accounting department you are responsible for: * Assisting the financial analysts of the department in the daily work; * Assisting in the preparation of the weekly and monthly management reporting; * Performing access review of different systems used within the department and advising on improvements; * Assisting in th"
+        },
         {
             "title": "Mechanisch operator procesindustrie",
             "company": "V-Tas",
@@ -58,7 +346,7 @@
             "date": "2026-03-23",
             "language": "en",
             "featured": false,
-            "url": "https://www.adzuna.nl/details/5676013091",
+            "url": "https://www.werk.nl/nl/vacatures/68547880",
             "description": "Design and develop SAP HANA Cloud models, including Calculation Views, Table Functions, and SQL Stored Procedures Work on end-to-end HANA implementations in production environments Contribute to HANA Cloud migration projects, including use of XSA migration toolkits Collaborate with DevOps teams using tools like Bitbucket and Jenkins Develop and manage applications using SAP Busines"
         },
         {
@@ -182,6 +470,18 @@
             "description": "We're dedicated to helping students find their ideal study program. However, many have expressed a need for more guidance than just a search tool. They're looking for more personalized counseling. This is where AI comes in, and potentially, you. We're on the lookout for someone who can help develop and enhance an AI advisor. It would understand each student's unique needs and preferences. Initiall"
         },
         {
+            "title": "Mechanisch operator procesindustrie",
+            "company": "APS Personeelservices",
+            "location": "Nuenen",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-22",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68551717",
+            "description": ""
+        },
+        {
             "title": "IP & Technology Transfer Specialist",
             "company": "Eindhoven University of Technology",
             "location": "Eindhoven",
@@ -278,6 +578,18 @@
             "description": "Do you want to be part of an experienced team, with over 25 professionals located in the Netherlands and India, supporting Philips businesses with End-to-end (E2E) product Quality and Reliability knowledge, developing RAMS best practices for medical devices and training material worldwide? Do you want to join a group of global experts, guiding and coaching Philips teams in adopting and embraci"
         },
         {
+            "title": "Mechanisch operator procesindustrie",
+            "company": "HQ Pack",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-21",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68575926",
+            "description": "Wood Operator Assembly Eindhoven LogoAs a Wood Operator Assembly in Eindhoven, you play a crucial role in the wood department of HQ Pack. You assemble industrial packaging and carry out woodworking activities. You work independently on complex work orders and are responsible for the quality of the final product. In addition, you provide explanations and instructions to less experienced colleagues."
+        },
+        {
             "title": "Electrical Assembly Worker / Assembler",
             "company": "Filias",
             "location": "Geldrop",
@@ -288,6 +600,18 @@
             "featured": false,
             "url": "https://www.technicus.nl/techniek-vacature/cp/4922744-electrical-assembly-worker-assembler/",
             "description": "As an Assembly Worker, you are an indispensable link in our production process. You ensure that high-quality electrical products and cabling are put together with the utmost precision. You will work in a clean, structured production environment where quality comes first. You will do this alongside a dedicated team of friendly colleagues, where craftsmanship and personal attention are key."
+        },
+        {
+            "title": "Lead Test Technician",
+            "company": "Thermo Fisher Scientific Inc.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-20",
+            "language": "en",
+            "featured": false,
+            "url": "https://vacaturesinfarma.nl/job/thermo-fisher-scientific/lead-test-technician-6ea9c0a68407d",
+            "description": "In this role, you will act as a tool owner and make sure that a customer-order-specific transmission electron microscope is aligned and built according to the customer's requirements. You will be responsible for all levels of integration of modules on the tool level for our systems. You will have the first level of responsibility to tackle any problems on module or system level and will involve ot"
         },
         {
             "title": "Production Planner EUV/EXE Factory",
@@ -350,18 +674,6 @@
             "description": "This is not a dashboard builder. It's a strategic function at the intersection of data, communication, and operational awareness. Your main responsibility will be to act upon \"signals\", i.e. communicate with business and technical stakeholders, translate them into actionale work items, and coordinate their follow-up. These signals range widely: client-reported issues, infrastructure events, mainte"
         },
         {
-            "title": "Lead Test Technician",
-            "company": "Thermo Fisher Scientific Inc.",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-03-20",
-            "language": "en",
-            "featured": false,
-            "url": "https://vacaturesinfarma.nl/job/thermo-fisher-scientific/lead-test-technician-6ea9c0a68407d",
-            "description": "In this role, you will act as a tool owner and make sure that a customer-order-specific transmission electron microscope is aligned and built according to the customer's requirements. You will be responsible for all levels of integration of modules on the tool level for our systems. You will have the first level of responsibility to tackle any problems on module or system level and will involve ot"
-        },
-        {
             "title": "Physics | Optics Internship: optical metrology performance analysis",
             "company": "ASML",
             "location": "Veldhoven",
@@ -386,6 +698,30 @@
             "description": "To strengthen imec NL's positioning in the European Defence sector, we are seeking an interim Program Manager / Business Developer with Defence experience. This role will shape imec's strategic entry, build the right partnerships, and convert high-value Defence opportunities into impactful, funded technology programs. You will act as a trusted counterpart to ministries, Defence organisations, a"
         },
         {
+            "title": "Job offer\nPhD position in SecReSy4You MSCA Network on Cyber-Physical Systems Security focusing on Resilient Control",
+            "company": "Eindhoven University of Technology",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-19",
+            "language": "en",
+            "featured": false,
+            "url": "https://euraxess.ec.europa.eu/jobs/420300",
+            "description": ""
+        },
+        {
+            "title": "Labview software designer",
+            "company": "ICT Group",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-19",
+            "language": "en",
+            "featured": false,
+            "url": "https://vacant.nl/vacature/details/45069458/labview-software-designer/eindhoven.html",
+            "description": "As a labVIEW software designer within the High Tech business unit you will work on a variety of assignments and projects in domains, such as medical and high tech equipment. You are an important link in every step of the software development process, i.e. from the specifications to the design, implementation and testing phases. Your technical abilities as a labVIEW software designer and personal c"
+        },
+        {
             "title": "Marketing Intern",
             "company": "Microsoft B.V.",
             "location": "Eindhoven",
@@ -407,18 +743,6 @@
             "language": "en",
             "featured": false,
             "url": "https://www.werk.nl/nl/vacatures/68495037",
-            "description": ""
-        },
-        {
-            "title": "Job offer\nPhD position in SecReSy4You MSCA Network on Cyber-Physical Systems Security focusing on Resilient Control",
-            "company": "Eindhoven University of Technology",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-03-19",
-            "language": "en",
-            "featured": false,
-            "url": "https://euraxess.ec.europa.eu/jobs/420300",
             "description": ""
         },
         {
@@ -552,18 +876,6 @@
             "featured": false,
             "url": "https://nl.indeed.com/viewjob?jk=5269426f4b563dc8",
             "description": "The Wafer Alignment team develops the strategies that correct wafer deformation and minimize overlay errors in advanced lithography systems. Today, simulations that support alignment decisions require significant compute due to a large configuration space. Our group recently created a promising proof-of-concept machine learning model that reduces this load. The next challenge is to understand how"
-        },
-        {
-            "title": "Labview software designer",
-            "company": "ICT Group",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-03-19",
-            "language": "en",
-            "featured": false,
-            "url": "https://vacant.nl/vacature/details/45069458/labview-software-designer/eindhoven.html",
-            "description": "As a labVIEW software designer within the High Tech business unit you will work on a variety of assignments and projects in domains, such as medical and high tech equipment. You are an important link in every step of the software development process, i.e. from the specifications to the design, implementation and testing phases. Your technical abilities as a labVIEW software designer and personal c"
         },
         {
             "title": "Process Sr Engineer - Hollow Core Fiber",
@@ -782,6 +1094,42 @@
             "description": "This internship is combined with a Master's thesis and is centered around a real business project focused on improving supply chain performance and/or inventory levels. You will bring your own clearly defined topic, and have full access to relevant data, and work closely with the Planning team to translate analysis into actionable insights. Thesis & Internship Scope * Define and execute a"
         },
         {
+            "title": "Electronics Engineer",
+            "company": "Brunel International N.V.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-17",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.brunel.net/en-nl/jobs/electronics-engineer-tr-281105",
+            "description": "Are you an experienced Electronics Engineer who enjoys designing complex electronic systems from concept to realization? In this role you will work on advanced analog and digital electronics within multidisciplinary development teams. You will contribute directly to innovative high-tech products by translating ideas into robust hardware solutions., You design and define advanced analog and digital"
+        },
+        {
+            "title": "Clinical Study Manager",
+            "company": "Brunel International N.V.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-17",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.brunel.net/en-nl/jobs/clinical-study-manager-tr-281438",
+            "description": "As a Clinical Study Manager, you lead clinical studies that directly contribute to the development of innovative healthcare and consumer health technologies used by people worldwide. What are you going to do * Lead the execution and management of clinical studies in compliance with applicable regulations and standards such as ISO, ICH-GCP and FDA guidelines. * Coordinate study sites, i"
+        },
+        {
+            "title": "Repair inspection in Veldhoven",
+            "company": "Actief Werkt!",
+            "location": "Veldhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-17",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.jobsonline.nl/vacature/repair-inspection-in-veldhoven-veldhoven-2/",
+            "description": ""
+        },
+        {
             "title": "Kafka Developer",
             "company": "Kryptos Technologies Limited",
             "location": "Eindhoven",
@@ -878,40 +1226,16 @@
             "description": "As a Senior Software Engineer, you will be at the forefront of Advanced Development. You won't just be maintaining systems; you will be building the \"first-of-a-kind\" prototypes. You will work globally with teams in Eindhoven, Bangalore, and the USA to evaluate new chipsets and develop the embedded C++ software that brings medical IoT devices to life. Your core tasks include: * Conducting"
         },
         {
-            "title": "Electronics Engineer",
-            "company": "Brunel International N.V.",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-03-17",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.brunel.net/en-nl/jobs/electronics-engineer-tr-281105",
-            "description": "Are you an experienced Electronics Engineer who enjoys designing complex electronic systems from concept to realization? In this role you will work on advanced analog and digital electronics within multidisciplinary development teams. You will contribute directly to innovative high-tech products by translating ideas into robust hardware solutions., You design and define advanced analog and digital"
-        },
-        {
-            "title": "Clinical Study Manager",
-            "company": "Brunel International N.V.",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-03-17",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.brunel.net/en-nl/jobs/clinical-study-manager-tr-281438",
-            "description": "As a Clinical Study Manager, you lead clinical studies that directly contribute to the development of innovative healthcare and consumer health technologies used by people worldwide. What are you going to do * Lead the execution and management of clinical studies in compliance with applicable regulations and standards such as ISO, ICH-GCP and FDA guidelines. * Coordinate study sites, i"
-        },
-        {
-            "title": "Repair inspection in Veldhoven",
-            "company": "Actief Werkt!",
+            "title": "Job in Germany: IT Service Engineer / Technical Software Engineer (w/m/d)",
+            "company": "edoc solutions ag",
             "location": "Veldhoven",
             "province": "Province of Noord-Brabant",
             "region": "Brainport Eindhoven region",
-            "date": "2026-03-17",
+            "date": "2026-03-16",
             "language": "en",
             "featured": false,
-            "url": "https://www.jobsonline.nl/vacature/repair-inspection-in-veldhoven-veldhoven-2/",
-            "description": ""
+            "url": "https://www.jobsonline.nl/vacature/job-in-germany-it-service-engineer-technical-software-engineer-w-m-d--veldhoven/",
+            "description": "TEAMwork Design your everyday work flexibly, openly and always with a pinch of humor You like to solve puzzles? Then become part of the solution in our team Exciting customer cases, a lot of team spirit and of course a lot of fun are waiting for you IT Service Engineer / Technical Software Engineer (f/m/d) This is what you can expect: Digital detective work: you analyze interesting second-level pr"
         },
         {
             "title": "Job in Germany: Mitarbeiter 2nd Level Support (m/w/d)",
@@ -1022,18 +1346,6 @@
             "description": "In this job, you will operate modern laser machines and oversee the production process. Every day offers a new challenge! Do you want to be part of our enthusiastic team? Let us hear from you and apply for this exciting position! We can't wait to meet you! As a Laser Operator, you are responsible for setting up, operating, and programming the laser cutting machines. You play a crucial role in the"
         },
         {
-            "title": "Job in Germany: IT Service Engineer / Technical Software Engineer (w/m/d)",
-            "company": "edoc solutions ag",
-            "location": "Veldhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-03-16",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.jobsonline.nl/vacature/job-in-germany-it-service-engineer-technical-software-engineer-w-m-d--veldhoven/",
-            "description": "TEAMwork Design your everyday work flexibly, openly and always with a pinch of humor You like to solve puzzles? Then become part of the solution in our team Exciting customer cases, a lot of team spirit and of course a lot of fun are waiting for you IT Service Engineer / Technical Software Engineer (f/m/d) This is what you can expect: Digital detective work: you analyze interesting second-level pr"
-        },
-        {
             "title": "TitleEmbedded Software Engineer (MCU)",
             "company": "Koninklijke Philips N.V.",
             "location": "Eindhoven",
@@ -1094,6 +1406,18 @@
             "description": "As a Technician, you'll earn a starting salary of € 3.186,- gross per month, including shift allowance. From day one, you'll benefit from a wide range of secondary employment benefits, such as on-site sports facilities including a gym and mountain bikes, and lunch or dinner provided in a modern company restaurant.The company is conveniently located along the A50, making it very easy to reach!"
         },
         {
+            "title": "Lead Engineer - Brabant Engineering B.V.",
+            "company": "YER",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-14",
+            "language": "en",
+            "featured": false,
+            "url": "https://vacant.nl/vacature/details/44977992/lead-engineer/eindhoven.html",
+            "description": "Are you an experienced mechanical engineer with a passion for mechanical engineering? Do you have extensive experience in setting up technical concepts and managing project teams? Then this role as Lead Mechanical Engineer is for you. In this position, you will work on a variety of projects within general mechanical engineering and mechanical engineering (outside the high-tech sector). You are res"
+        },
+        {
             "title": "Tester ict",
             "company": "Avular",
             "location": "Eindhoven",
@@ -1152,18 +1476,6 @@
             "featured": false,
             "url": "https://prodrive-technologies.com/careers/vacancies/development-architect/",
             "description": "In this position, you guide and support a team of Senior Development Architects working across multiple functional domains. You are not a manager - you are a coach, a technical sparring partner, and a gentle yet effective leader who elevates others through experience, empathy, and expertise. You leverage your in-depth background as a Development Architect to understand the challenges your coll"
-        },
-        {
-            "title": "Lead Engineer - Brabant Engineering B.V.",
-            "company": "YER",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-03-14",
-            "language": "en",
-            "featured": false,
-            "url": "https://vacant.nl/vacature/details/44977992/lead-engineer/eindhoven.html",
-            "description": "Are you an experienced mechanical engineer with a passion for mechanical engineering? Do you have extensive experience in setting up technical concepts and managing project teams? Then this role as Lead Mechanical Engineer is for you. In this position, you will work on a variety of projects within general mechanical engineering and mechanical engineering (outside the high-tech sector). You are res"
         },
         {
             "title": "Maintenance Technician Technical Service (2-Shift System)",
@@ -1342,7 +1654,7 @@
             "date": "2026-03-13",
             "language": "en",
             "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=f611f6a10db0ec35",
+            "url": "https://nl.indeed.com/viewjob?jk=139256af3933dd1c",
             "description": "As a Technical Lead, you are the architect of the future for our farm-out team. You look beyond the madness of the day and translate long-term visions and quarterly plans into concrete technical roadmaps. In close coordination with the functional architects, you determine what is needed to realize our ambitions, while maintaining the perfect balance between innovation and stability., * Leading one"
         },
         {
@@ -1404,6 +1716,18 @@
             "featured": false,
             "url": "https://www.careerjet.nl/jobad/nlf74043e5b661d47bf7e751f6b25b1d26",
             "description": "* Lead the design, development, and support of Manufacturing Execution System (MES) solutions using SAP ME and SAP MII. * Drive integration initiatives between SAP ME/MII and SAP ERP modules such as Production Planning (PP) and Extended Warehouse Management (EWM). * Implement and manage integrations with plant floor connectivity tools such as SAP PCo and Kepware. * Develop and ma"
+        },
+        {
+            "title": "Job in Germany: Data Scientist (m/w/d)",
+            "company": "Umicore",
+            "location": "Veldhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-12",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.jobsonline.nl/vacature/job-in-germany-data-scientist-m-w-d--veldhoven/",
+            "description": ""
         },
         {
             "title": "Software Development Engineer - Software Engineering Excellence Enablement",
@@ -1570,7 +1894,7 @@
             "date": "2026-03-12",
             "language": "en",
             "featured": false,
-            "url": "https://www.jobbird.com/nl/vacature/24107201-management-intern-jan-feb-26",
+            "url": "https://www.jobsonline.nl/vacature/management-intern-jan-feb-26-eindhoven/",
             "description": "Management Assistant Intern - January/February 2026 Ambition to become a General Manager one day? As a Management Assistant Intern, you will gain insight into and experience with performing leadership tasks. Positioned at the heart of the hotel and working closely with the General Manager on daily operations, you'll have the chance to broaden your horizons-because as our Management Assistant Inter"
         },
         {
@@ -1634,16 +1958,16 @@
             "description": "Controlling the interaction between light and matter is central to modern photonics and to technologies such as quantum computing, optical communications, imaging, and sensing. A key challenge is to engineer optical components that can precisely shape the spatial and temporal properties of light with high efficiency, speed, and resolution. Recent advances in platforms such as metasurfaces, met"
         },
         {
-            "title": "Job in Germany: Data Scientist (m/w/d)",
-            "company": "Umicore",
+            "title": "EHS/ Environmental specialist",
+            "company": "Randstad",
             "location": "Veldhoven",
             "province": "Province of Noord-Brabant",
             "region": "Brainport Eindhoven region",
-            "date": "2026-03-12",
+            "date": "2026-03-11",
             "language": "en",
             "featured": false,
-            "url": "https://www.jobsonline.nl/vacature/job-in-germany-data-scientist-m-w-d--veldhoven/",
-            "description": ""
+            "url": "https://www.randstad.nl/vacatures/9203197/ehs--environmental-specialist",
+            "description": "Introduction to the job Within Corporate EHS (Environment, Health and Safety) we are among others responsible for delivering the environmental data for ASMLs annual report. Further, we support the business sectors of ASML with data analysis on waste and emissions data. Due to personal circumstances in this team, we are searching for a temporary expert (32 hours per week for 6 months) who can s"
         },
         {
             "title": "Traineeship Operations",
@@ -2030,16 +2354,16 @@
             "description": "We are seeking a passionate and skilled Software Developer to join our agile team. The ideal candidate will have strong expertise in C# development, SQL Server database management, and ADO.NET for data access. You will collaborate in a Scrum environment, leveraging modern tools like GitHub and Copilot to deliver high-quality, scalable software solutions., * Design, develop, and maintain applicatio"
         },
         {
-            "title": "EHS/ Environmental specialist",
-            "company": "Randstad",
-            "location": "Veldhoven",
+            "title": "Principal Engineer",
+            "company": "Magnet.",
+            "location": "Eindhoven",
             "province": "Province of Noord-Brabant",
             "region": "Brainport Eindhoven region",
-            "date": "2026-03-11",
+            "date": "2026-03-10",
             "language": "en",
             "featured": false,
-            "url": "https://www.randstad.nl/vacatures/9203197/ehs--environmental-specialist",
-            "description": "Introduction to the job Within Corporate EHS (Environment, Health and Safety) we are among others responsible for delivering the environmental data for ASMLs annual report. Further, we support the business sectors of ASML with data analysis on waste and emissions data. Due to personal circumstances in this team, we are searching for a temporary expert (32 hours per week for 6 months) who can s"
+            "url": "https://magnet.me/en/opportunity/969689/principal-engineer",
+            "description": "As a Principal Engineer, you will further build out the strategy of our GenAI (agentic AI, conversational AI) domain. You'll cultivate a competitive edge through your expertise and collaborate closely together with the Domain Owner. You'll lead some of our largest and most complex projects from sales to delivery. This is a highly visible, high-impact role that blends technical leadership, business"
         },
         {
             "title": "CNC-machinebediener (exclusief programmeren)",
@@ -2124,18 +2448,6 @@
             "featured": false,
             "url": "https://www.werk.nl/nl/vacatures/68337620",
             "description": "You will partly work in a logistics environment/ warehouse, close to a so-called cleanroom. This is a very clean working environment where the space is designed to limit or completely exclude contamination in the production process. As a cleaning operator you are involved in industrial cleaning of packaging and transport boxes. Your tasks Based on English checklists, you go step by step how"
-        },
-        {
-            "title": "Principal Engineer",
-            "company": "Magnet.",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-03-10",
-            "language": "en",
-            "featured": false,
-            "url": "https://magnet.me/en/opportunity/969689/principal-engineer",
-            "description": "As a Principal Engineer, you will further build out the strategy of our GenAI (agentic AI, conversational AI) domain. You'll cultivate a competitive edge through your expertise and collaborate closely together with the Domain Owner. You'll lead some of our largest and most complex projects from sales to delivery. This is a highly visible, high-impact role that blends technical leadership, business"
         },
         {
             "title": "BI (business intelligence) Consultant",
@@ -3038,6 +3350,30 @@
             "description": "The IT and Data Process Consultant focuses on improving operational quality within a large IT and Data organization by establishing and improving processes, standards, and guidelines. The role contributes to continuous improvement of IT and data processes and supports the organization in increasing process maturity and operational efficiency. You will work within a team responsible for IT and"
         },
         {
+            "title": "Technical Support Engineer",
+            "company": "Raith B.v.",
+            "location": "Best",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-07",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werkeninderegio.nl/vacatures/technical-support-engineer-best-26309-1772807673-c2749/externe_sollicitatie",
+            "description": "* You are the first point of contact for our Raith B.V. customers. * You respond to customer inquiries and reported system-related problems, process them, and coordinate further steps. * You will perform initial troubleshooting, collect and document the necessary information, and resolve the issue remotely if possible. If this is not possible, you will coordinate further measures with fi"
+        },
+        {
+            "title": "Technical Support Engineer",
+            "company": "Raith Laser Systems",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-07",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werkenindekempen.nl/vacatures/technical-support-engineer-eindhoven-26308-1772807386-c2750",
+            "description": "* You are the first point of contact for our Raith Laser Systems customers. * You respond to customer inquiries and reported system-related problems, process them, and coordinate further steps * You will perform initial troubleshooting, collect and document the necessary information, and resolve the issue remotely if possible. If this is not possible, you will coordinate further measures"
+        },
+        {
             "title": "Automotive Engineer Vehicle Control Systems",
             "company": "Yacht",
             "location": "Eindhoven",
@@ -3132,30 +3468,6 @@
             "featured": false,
             "url": "https://vacant.nl/vacature/details/39745093/hardware-engineer/eersel.html",
             "description": "We are you looking for a Hardware Engineer for one of our clients in Netherlands catering the requirements of a global leading industrial packaging company, driven by innovation and customer satisfaction? if you see a challenge in designing electrical systems and equipment for our customers' machines? With the complete team of hardware, software and mechanical engineers, you work together on chall"
-        },
-        {
-            "title": "Technical Support Engineer",
-            "company": "Raith B.v.",
-            "location": "Best",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-03-07",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werkeninderegio.nl/vacatures/technical-support-engineer-best-26309-1772807673-c2749/externe_sollicitatie",
-            "description": "* You are the first point of contact for our Raith B.V. customers. * You respond to customer inquiries and reported system-related problems, process them, and coordinate further steps. * You will perform initial troubleshooting, collect and document the necessary information, and resolve the issue remotely if possible. If this is not possible, you will coordinate further measures with fi"
-        },
-        {
-            "title": "Technical Support Engineer",
-            "company": "Raith Laser Systems",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-03-07",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werkenindekempen.nl/vacatures/technical-support-engineer-eindhoven-26308-1772807386-c2750",
-            "description": "* You are the first point of contact for our Raith Laser Systems customers. * You respond to customer inquiries and reported system-related problems, process them, and coordinate further steps * You will perform initial troubleshooting, collect and document the necessary information, and resolve the issue remotely if possible. If this is not possible, you will coordinate further measures"
         },
         {
             "title": "Job in Germany: Information Security Officer (ISB) / Chief Information Security Officer (CISO) (m/f",
@@ -3334,7 +3646,7 @@
             "date": "2026-03-06",
             "language": "en",
             "featured": false,
-            "url": "https://www.careerjet.nl/jobad/nl814fc56905c09d82877646505f19642f",
+            "url": "https://nl.indeed.com/viewjob?jk=1dd8721f03ef1dc9",
             "description": "Within the Tools Department, you are responsible for managing and preparing the tools used in production and cleanroom workstations. You work closely with technicians, logistics colleagues and production teams to ensure tools are available, complete and ready to use. Your responsibilities include: * Issuing and receiving tools used by technicians and production teams * Transporting tools"
         },
         {
@@ -4562,6 +4874,18 @@
             "description": "The qubit hardware that we operate in our laboratories are two neutral atom quantum computing platforms (rubidium and strontium). Optical tweezer arrays provide programmable and precise control and site-resolved single atom readout. Rydberg excitation enables strong nearest-neighbor coupling for multiqubit entanglement. The architecture is highly scalable to large qubit counts via array reconfigur"
         },
         {
+            "title": "Internship Guest Relations - NH Collection Eindhoven Centre",
+            "company": "NH the Netherlands B.V.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-03-03",
+            "language": "en",
+            "featured": false,
+            "url": "https://magnet.me/en/opportunity/976685/internship-guest-relations---nh-collection-eindhoven-centre",
+            "description": ""
+        },
+        {
             "title": "Job in Germany: IT Administrator / Deputy IT Manager (m/f/d)",
             "company": "Backhaus Nahrstedt Premium GmbH",
             "location": "Veldhoven",
@@ -4762,7 +5086,7 @@
             "date": "2026-02-28",
             "language": "en",
             "featured": false,
-            "url": "https://www.werk.nl/nl/vacatures/67854476",
+            "url": "https://www.werk.nl/nl/vacatures/68589547",
             "description": "Salary of 15,05 euros per hour - You will work in a clean environment - You will get training on the job - Longterm job Dit ben jij!"
         },
         {
@@ -5650,7 +5974,7 @@
             "date": "2026-02-25",
             "language": "en",
             "featured": false,
-            "url": "https://www.academictransfer.com/nl/jobs/359556/phd-in-adaptive-labour-market-futures-for-the-built-environment-energy-and-digital-transition/",
+            "url": "https://euraxess.ec.europa.eu/jobs/421607",
             "description": "The project will focus on the development and application of coarse-grained computer simulations and continuum theory to understand the physics of remodeling and growth of cellular fluid lipid membranes. In particular, the project will focus on the effect of curvature and deformations on the stability of double membrane systems such as the nuclear envelope. The project will involve collaboration w"
         },
         {
@@ -5962,7 +6286,7 @@
             "date": "2026-02-23",
             "language": "en",
             "featured": false,
-            "url": "https://www.werk.nl/nl/vacatures/68491321",
+            "url": "https://www.werk.nl/nl/vacatures/68575324",
             "description": ""
         },
         {
@@ -5986,20 +6310,8 @@
             "date": "2026-02-23",
             "language": "en",
             "featured": false,
-            "url": "https://www.werk.nl/nl/vacatures/68491620",
+            "url": "https://www.werk.nl/nl/vacatures/68576347",
             "description": "At Sendent, we're looking for a Medior Software Engineer to take increasing ownership of our Exchange Connector and later contribute to our Outlook integration. You'll work on real production software used by organizations that care deeply about data sovereignty and security. About Sendent Sendent is a fast-growing software company focused on privacy-first enterprise collaboration and comm"
-        },
-        {
-            "title": "Functional Manager Student Information System",
-            "company": "Eindhoven University of Technology",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-22",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.adzuna.nl/details/5641820402",
-            "description": "The Eindhoven University of Technology (TU/e) is an internationally oriented university, specializing in engineering, science and technology. We are known for our big scientific impact and development of technological innovations. If you join Eindhoven University of Technology, you step onto the campus of a small university with a big impact on the smartest region of the world. A university where"
         },
         {
             "title": "Product Life Cycle Manager Embedded Computing Systems",
@@ -6014,18 +6326,6 @@
             "description": "If you are passionate about steering product roadmap, driving operational excellence, and safeguarding performance throughout the full lifecycle, we invite you to join our Embedded Computing Systems Operations team. You will continuously improve product quality, manufacturability, cost performance, and supply robustness. Together with your product team, you ensure that every phase-from introdu"
         },
         {
-            "title": "Senior Full-Stack Data Engineer",
-            "company": "Eindhoven University of Technology",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-22",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=002382a10c69a2d3",
-            "description": "Join the Data Revolution at Tu/e: Where Data Meets Discovery! As the data team forresearchers, we empower our community with tailored and cost-effective data solutions forpioneering innovations. As part of the Product Area Research (PAR), our mission is to equipour university's brightest minds with the tools and technology they need to navigate theentire research data & AI lifecycle. We are bui"
-        },
-        {
             "title": "Repair Technician",
             "company": "HQ Group",
             "location": "Veldhoven",
@@ -6036,18 +6336,6 @@
             "featured": false,
             "url": "https://nl.indeed.com/viewjob?jk=85b3bdf4f75ad5c4",
             "description": "As a Repair Technician, you'll join a team of 9 technically skilled colleagues working in a fast-paced, high-tech environment. Your main responsibility is to ensure the highest quality repair and maintenance of returned packaging and technical parts used in advanced manufacturing processes. Your daily tasks include: * Inspecting and repairing various types of mechanical and cosmetic damag"
-        },
-        {
-            "title": "PhD Coordinator (0,8 - 1 FTE)",
-            "company": "Eindhoven University of Technology",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-22",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.adzuna.nl/details/5641824208",
-            "description": "Would you like to contribute to a safe, warm, and well-structured environment for our international PhD community? As a PhD Coordinator, you are the approachable, low-threshold point of contact for PhD candidates, the Graduate School, and the faculty board. You work on both operational tasks (such as progress meetings, onboarding, and process coordination) and tactical/strategic activities (such a"
         },
         {
             "title": "PhD on contract-based design of complex dynamical systems",
@@ -6086,16 +6374,40 @@
             "description": "As a Global Data Lineage Specialist, you are responsible for designing, implementing, and continuously improving data lineage capabilities across DLL. You will ensure end-to-end visibility of data flows - from source systems through transformations to consumption - enabling impact analysis, regulatory compliance, and confident data use. The initial focus of this role is on establishing and ope"
         },
         {
-            "title": "Principal Maintenance Manager - EMEA",
-            "company": "GXO Logistics, Inc.",
+            "title": "Functional Manager Student Information System",
+            "company": "Eindhoven University of Technology",
             "location": "Eindhoven",
             "province": "Province of Noord-Brabant",
             "region": "Brainport Eindhoven region",
-            "date": "2026-02-21",
+            "date": "2026-02-22",
             "language": "en",
             "featured": false,
-            "url": "https://jobs.gxo.com/job/Eindhoven-Principal-Maintenance-Manager-EMEA-5651-GG/1345456500/",
-            "description": "This is a unique opportunity to join GXO, help to shape and drive the strategic direction of automation solutions and maintenance strategy across the region., Reporting directly to the Senior Director of Automation & Adaptive Technology for Continental Europe What you need to succeed at GXO as a Principal Maintenance Manager - EMEA * Shape Maintenance Strategy: Contribute to the developme"
+            "url": "https://www.adzuna.nl/details/5641820402",
+            "description": "The Eindhoven University of Technology (TU/e) is an internationally oriented university, specializing in engineering, science and technology. We are known for our big scientific impact and development of technological innovations. If you join Eindhoven University of Technology, you step onto the campus of a small university with a big impact on the smartest region of the world. A university where"
+        },
+        {
+            "title": "Senior Full-Stack Data Engineer",
+            "company": "Eindhoven University of Technology",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-22",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=002382a10c69a2d3",
+            "description": "Join the Data Revolution at Tu/e: Where Data Meets Discovery! As the data team forresearchers, we empower our community with tailored and cost-effective data solutions forpioneering innovations. As part of the Product Area Research (PAR), our mission is to equipour university's brightest minds with the tools and technology they need to navigate theentire research data & AI lifecycle. We are bui"
+        },
+        {
+            "title": "PhD Coordinator (0,8 - 1 FTE)",
+            "company": "Eindhoven University of Technology",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-22",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.adzuna.nl/details/5641824208",
+            "description": "Would you like to contribute to a safe, warm, and well-structured environment for our international PhD community? As a PhD Coordinator, you are the approachable, low-threshold point of contact for PhD candidates, the Graduate School, and the faculty board. You work on both operational tasks (such as progress meetings, onboarding, and process coordination) and tactical/strategic activities (such a"
         },
         {
             "title": "Civil Engineer / Infra Engineer",
@@ -6122,18 +6434,6 @@
             "description": "Je wordt intensief begeleid en krijgt de ruimte om jezelf professioneel en persoonlijk te ontwikkelen. Je werkzaamheden: * Ondersteunen bij civieltechnische projecten * Meewerken aan ontwerpen en berekeningen * Ondersteunen van projectteams * Opstellen en controleren van documenten * Afstemmen met collega's en opdrachtgevers What we expect from you * Nederlandse"
         },
         {
-            "title": "Electronics Engineer",
-            "company": "TMC",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-21",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=208375087081cbb4",
-            "description": ""
-        },
-        {
             "title": "ServiceNow Engineer",
             "company": "DLL",
             "location": "Eindhoven",
@@ -6158,18 +6458,6 @@
             "description": "We are seeking a skilled Platform Engineer with a strong background in IT Infrastructure and Private Cloud technologies. In this role, you will design, deploy, and maintain the foundational infrastructure that powers our business applications and services. You will collaborate closely with development, operations, and security teams to ensure our environment remains reliable, scalable, automated,"
         },
         {
-            "title": "Senior Embedded Linux Engineer",
-            "company": "KRUSH Labs B.V.",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-21",
-            "language": "en",
-            "featured": false,
-            "url": "https://hightechcampus.com/vacancies/krush-labs/senior-embedded-linux-engineer",
-            "description": "You will work on custom hardware platforms, often in early prototype stages, bringing up boards, debugging hardware/software interaction issues, and designing secure, production-ready Linux systems. This is a hands-on, low-level engineering role. You must be comfortable working close to hardware, reading schematics, debugging partially working prototypes, and implementing secure embedded archi"
-        },
-        {
             "title": "Lead Front-end Engineer",
             "company": "Mia Interactive",
             "location": "Eindhoven",
@@ -6180,18 +6468,6 @@
             "featured": false,
             "url": "https://nl.indeed.com/viewjob?jk=d6843e6977239fbe",
             "description": "Vaardigheden: Next.js, React, Node.js, Strategy, Accessibility, Technische implementatie, Front-end, Front-end Development, Systeemintegratie, Technology Dienstverband: In dienst"
-        },
-        {
-            "title": "FPGA Firmware Designer",
-            "company": "Yacht",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-21",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werk.nl/nl/vacatures/68125437",
-            "description": "Join a world-class multidisciplinary team at Philips to develop the next generation of Magnetic Resonance Imaging (MRI) systems. As an FPGA Firmware Designer, you will bridge the gap between concept and clinical reality, creating the control and acquisition systems that power life-saving diagnostics. Your Impact * Design & Develop: Lead FPGA firmware creation from requirement definition t"
         },
         {
             "title": "Cleanliness Expert - Ultra-Clean High-Tech Systems",
@@ -6242,6 +6518,54 @@
             "description": "As a Manufacturing Quality Engineer, you play a key role in strengthening operational performance across our PCBA production environment. You drive the reduction of internal and external defects, improve manufacturing processes, and ensure that quality standards are consistently met. By focusing on preventive quality, structured problem solving, and cross-functional collaboration, you help secure"
         },
         {
+            "title": "Principal Maintenance Manager - EMEA",
+            "company": "GXO Logistics, Inc.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-21",
+            "language": "en",
+            "featured": false,
+            "url": "https://jobs.gxo.com/job/Eindhoven-Principal-Maintenance-Manager-EMEA-5651-GG/1345456500/",
+            "description": "This is a unique opportunity to join GXO, help to shape and drive the strategic direction of automation solutions and maintenance strategy across the region., Reporting directly to the Senior Director of Automation & Adaptive Technology for Continental Europe What you need to succeed at GXO as a Principal Maintenance Manager - EMEA * Shape Maintenance Strategy: Contribute to the developme"
+        },
+        {
+            "title": "Electronics Engineer",
+            "company": "TMC",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-21",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=208375087081cbb4",
+            "description": ""
+        },
+        {
+            "title": "Senior Embedded Linux Engineer",
+            "company": "KRUSH Labs B.V.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-21",
+            "language": "en",
+            "featured": false,
+            "url": "https://hightechcampus.com/vacancies/krush-labs/senior-embedded-linux-engineer",
+            "description": "You will work on custom hardware platforms, often in early prototype stages, bringing up boards, debugging hardware/software interaction issues, and designing secure, production-ready Linux systems. This is a hands-on, low-level engineering role. You must be comfortable working close to hardware, reading schematics, debugging partially working prototypes, and implementing secure embedded archi"
+        },
+        {
+            "title": "FPGA Firmware Designer",
+            "company": "Yacht",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-21",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68125437",
+            "description": "Join a world-class multidisciplinary team at Philips to develop the next generation of Magnetic Resonance Imaging (MRI) systems. As an FPGA Firmware Designer, you will bridge the gap between concept and clinical reality, creating the control and acquisition systems that power life-saving diagnostics. Your Impact * Design & Develop: Lead FPGA firmware creation from requirement definition t"
+        },
+        {
             "title": "Mechatronics Technician",
             "company": "Sioux",
             "location": "Eindhoven",
@@ -6252,6 +6576,78 @@
             "featured": false,
             "url": "https://vacancy.sioux.eu/vacancies/vacancy_mechatronics_technician_342665_31.html",
             "description": "As a Mechatronics Technician, you are responsible for the assembly of high-tech modules, products and machines. In this role, you take care of the assembly, test and packaging of mechatronic or (electro)-mechanical modules or complete machines. You will work for customers in the semiconductor, analytical, and medical equipment industry, within the Brainport region and beyond. Your expertise pl"
+        },
+        {
+            "title": "Senior Hybrid Evaluation / Test Environment Lead (CXR VLM/LLM)",
+            "company": "FalconSmartIT",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-20",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=a5c42f56d7ede634",
+            "description": "This role focuses on independent evaluation and controlled experimentation, separate from core model development, to support evidence generation and safe iteration., Design, build, and operate a hybrid evaluation and test environment for CXR VLM/LLM models, enabling systematic testing of model functionality, edge cases, and performance across findings without interfering with the main development"
+        },
+        {
+            "title": "Senior AI / VLM / LLM - Chest X-Ray (CXR)",
+            "company": "FalconSmartIT",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-20",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=185c00cccd98738c",
+            "description": "Provide senior AI leadership on CXR-focused foundation and multimodal models, from architectural decisions through evaluation strategy and solution delivery, with strong situational awareness of when to flag issues across the programme."
+        },
+        {
+            "title": "Internship | Development of smart adhesives for sustainable and recyclable automotive/aerospace/electronics.",
+            "company": "TNO",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-20",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=ab221dca817d8176",
+            "description": "In this project, a study will be done on the chemical reactivity of a reversible covalent bonding. With this type of bonding a reversible adhesive for high-temperature applications will be developed. After the lifetime all compartments can easily be separated and reused by un-bonding the adhesives. The internship will last between 5 and 9 months, depending on the preferences of the candidate. You"
+        },
+        {
+            "title": "Senior Process Engineer Metrology | Eindhoven",
+            "company": "TNO",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-20",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=8ee693b26b95b768",
+            "description": "As Process Engineer Metrology, you are responsible for defining, monitoring, and improving metrology processes that support the wafer manufacturing process. You will work together with process engineers specialized in epitaxy, lithography, dry- and wet etching and metallization to provide state-of-the-art inline metrology to control the production line. You will be part of a dynamic pilot line env"
+        },
+        {
+            "title": "Data Engineer/Java developer",
+            "company": "FalconSmartIT",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-20",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=7b750571cac98e40",
+            "description": ""
+        },
+        {
+            "title": "Microbiologisch analist (mbo)",
+            "company": "Olympia Uitzendbureau",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-20",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/werkzoekenden/vacatures/68098660",
+            "description": ""
         },
         {
             "title": "Process Engineer",
@@ -6410,184 +6806,16 @@
             "description": "â¢ Â Â You are responsible for the optimal functioning of Raith EBPGâs. â¢ Â Â You will deal with various aspects of the systems, from analogue and digital electronics to high precision mechanics, ultra-high vacuum and high voltage technology. â¢ Â Â You build and diagnose the systems sufficiently. â¢ Â Â As the first escalation level you are a import part of"
         },
         {
-            "title": "Senior Hybrid Evaluation / Test Environment Lead (CXR VLM/LLM)",
-            "company": "FalconSmartIT",
-            "location": "Eindhoven",
+            "title": "CNC operator",
+            "company": "Covebo",
+            "location": "Geldrop",
             "province": "Province of Noord-Brabant",
             "region": "Brainport Eindhoven region",
             "date": "2026-02-20",
             "language": "en",
             "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=a5c42f56d7ede634",
-            "description": "This role focuses on independent evaluation and controlled experimentation, separate from core model development, to support evidence generation and safe iteration., Design, build, and operate a hybrid evaluation and test environment for CXR VLM/LLM models, enabling systematic testing of model functionality, edge cases, and performance across findings without interfering with the main development"
-        },
-        {
-            "title": "Senior AI / VLM / LLM - Chest X-Ray (CXR)",
-            "company": "FalconSmartIT",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-20",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=185c00cccd98738c",
-            "description": "Provide senior AI leadership on CXR-focused foundation and multimodal models, from architectural decisions through evaluation strategy and solution delivery, with strong situational awareness of when to flag issues across the programme."
-        },
-        {
-            "title": "Internship | Development of smart adhesives for sustainable and recyclable automotive/aerospace/electronics.",
-            "company": "TNO",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-20",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=ab221dca817d8176",
-            "description": "In this project, a study will be done on the chemical reactivity of a reversible covalent bonding. With this type of bonding a reversible adhesive for high-temperature applications will be developed. After the lifetime all compartments can easily be separated and reused by un-bonding the adhesives. The internship will last between 5 and 9 months, depending on the preferences of the candidate. You"
-        },
-        {
-            "title": "Senior Process Engineer Metrology | Eindhoven",
-            "company": "TNO",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-20",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=8ee693b26b95b768",
-            "description": "As Process Engineer Metrology, you are responsible for defining, monitoring, and improving metrology processes that support the wafer manufacturing process. You will work together with process engineers specialized in epitaxy, lithography, dry- and wet etching and metallization to provide state-of-the-art inline metrology to control the production line. You will be part of a dynamic pilot line env"
-        },
-        {
-            "title": "Data Engineer/Java developer",
-            "company": "FalconSmartIT",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-20",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=7b750571cac98e40",
-            "description": ""
-        },
-        {
-            "title": "Microbiologisch analist (mbo)",
-            "company": "Olympia Uitzendbureau",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-20",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werk.nl/werkzoekenden/vacatures/68098660",
-            "description": ""
-        },
-        {
-            "title": "Datamanager",
-            "company": "Renewi",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-19",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werk.nl/nl/vacatures/68080603",
-            "description": ""
-        },
-        {
-            "title": "Maintenance engineer",
-            "company": "ASML",
-            "location": "Veldhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-19",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werk.nl/nl/vacatures/68083453",
-            "description": ""
-        },
-        {
-            "title": "CNC-metaalsnijder",
-            "company": "SOMA Works",
-            "location": "Maarheeze",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-19",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werk.nl/nl/vacatures/68079959",
-            "description": "Looking for work as a Tube Laser Operator? We have a vacancy for you as Operator tube laser in Maarheeze. Introduction, As an Operator Tube Laser, you will be responsible for: - Programming, operating and maintaining the tube laser; - Nesting of orders and creation of programmes based on production forms; - Installation and collection of material according to specifications; - Start production pro"
-        },
-        {
-            "title": "Junior FPGA Design Engineer",
-            "company": "KRUSH Labs B.V.",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-19",
-            "language": "en",
-            "featured": false,
-            "url": "https://hightechcampus.com/vacancies/krush-labs/junior-fpga-design-engineer",
-            "description": "The Junior FPGA Design Engineer will contribute to the development of an advanced wireless communication system designed for long-range, high-data-rate, and low-latency performance. The role involves designing, integrating, and validating RTL modules while working closely with system architects and engineers across DSP, RF, and verification disciplines. Responsibilities * Develop lint-cle"
-        },
-        {
-            "title": "Wood CNC Operator 2-shifts €3243 Bruto",
-            "company": "WerkTalent",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-19",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=9e5f29e7e330ed00",
-            "description": "As a CNC woodworker, you will be the master of our woodworking machines. You will work in a 2-shift operation, ensuring that our machines run smoothly while producing parts for wood boxes., As a CNC woodworker, you will be responsible for operating our state-of-the-art woodworking machines. You will work with a variety of wood types and materials to produce high-quality products according to our c"
-        },
-        {
-            "title": "Software Test Engineer",
-            "company": "Vention Technologies",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-19",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werk.nl/nl/vacatures/68095108",
-            "description": "At Vention, we're not just writing code; we're solving real-world problems with embedded solutions. You'll work on tech that matters, from energy transition to health innovation, building the brains behind connected products. One day you're deep into nRF firmware, the next you're debugging a board with an oscilloscope. We are looking for a Software Test Engineer with a strong focus on softw"
-        },
-        {
-            "title": "CNC-machinebediener (exclusief programmeren)",
-            "company": "People Work Service",
-            "location": "Gemert",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-19",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werk.nl/nl/vacatures/68448703",
-            "description": ""
-        },
-        {
-            "title": "SAP Fiori / SAPUI5 Front-End Developer (UX Focus)",
-            "company": "ITproposal B.V.",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-19",
-            "language": "en",
-            "featured": false,
-            "url": "https://vacaturebank-zuidwestnederland.nl/vacature/1052864/sap-fiori-sapui5-front-end-developer-ux-focus-eindhoven",
-            "description": "We are seeking an experienced SAP Fiori / SAPUI5 Front-End Developer with strong UX development skills to join a high-performing digital team. The role involves translating UX wireframes into scalable, high-performance front-end solutions aligned with enterprise design systems and SAPUI5 framework standards. You will collaborate closely with UX/UI specialists to deliver secure, reusable, and u"
-        },
-        {
-            "title": "Mechanisch operator procesindustrie",
-            "company": "Carrière Personeelsdiensten B.V.",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-19",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werk.nl/nl/vacatures/68400767",
-            "description": ""
+            "url": "https://techniekvacaturebank.nl/vacature/details/1959344/cnc-operator/geldrop.html",
+            "description": "Are you an experienced CNC Operator with 5-10 years of hands-on experience looking for a new challenge in a modern production environment? Our Finishing Department is seeking a motivated expert who can independently set up, program, and operate CNC machines with Siemens control systems. With your technical know-how, you ensure precision, efficiency, and consistent high-quality results in the produ"
         },
         {
             "title": "Business development manager",
@@ -6758,6 +6986,222 @@
             "description": "Are you passionate about transforming clinical data into meaningful insights that improve patient safety and product quality? Do you thrive in a role that combines clinical evaluation, medical safety expertise, and hands-on support for product lifecycle activities? Amaris Consulting is looking for a Clinical Development Scientist to support one of our partners in the medical device industry. T"
         },
         {
+            "title": "Datamanager",
+            "company": "Renewi",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-19",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68080603",
+            "description": ""
+        },
+        {
+            "title": "Maintenance engineer",
+            "company": "ASML",
+            "location": "Veldhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-19",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68083453",
+            "description": ""
+        },
+        {
+            "title": "CNC-metaalsnijder",
+            "company": "SOMA Works",
+            "location": "Maarheeze",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-19",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68079959",
+            "description": "Looking for work as a Tube Laser Operator? We have a vacancy for you as Operator tube laser in Maarheeze. Introduction, As an Operator Tube Laser, you will be responsible for: - Programming, operating and maintaining the tube laser; - Nesting of orders and creation of programmes based on production forms; - Installation and collection of material according to specifications; - Start production pro"
+        },
+        {
+            "title": "Junior FPGA Design Engineer",
+            "company": "KRUSH Labs B.V.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-19",
+            "language": "en",
+            "featured": false,
+            "url": "https://hightechcampus.com/vacancies/krush-labs/junior-fpga-design-engineer",
+            "description": "The Junior FPGA Design Engineer will contribute to the development of an advanced wireless communication system designed for long-range, high-data-rate, and low-latency performance. The role involves designing, integrating, and validating RTL modules while working closely with system architects and engineers across DSP, RF, and verification disciplines. Responsibilities * Develop lint-cle"
+        },
+        {
+            "title": "Wood CNC Operator 2-shifts €3243 Bruto",
+            "company": "WerkTalent",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-19",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68562925",
+            "description": "As a CNC woodworker, you will be the master of our woodworking machines. You will work in a 2-shift operation, ensuring that our machines run smoothly while producing parts for wood boxes., As a CNC woodworker, you will be responsible for operating our state-of-the-art woodworking machines. You will work with a variety of wood types and materials to produce high-quality products according to our c"
+        },
+        {
+            "title": "Software Test Engineer",
+            "company": "Vention Technologies",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-19",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68095108",
+            "description": "At Vention, we're not just writing code; we're solving real-world problems with embedded solutions. You'll work on tech that matters, from energy transition to health innovation, building the brains behind connected products. One day you're deep into nRF firmware, the next you're debugging a board with an oscilloscope. We are looking for a Software Test Engineer with a strong focus on softw"
+        },
+        {
+            "title": "CNC-machinebediener (exclusief programmeren)",
+            "company": "People Work Service",
+            "location": "Gemert",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-19",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68448703",
+            "description": ""
+        },
+        {
+            "title": "SAP Fiori / SAPUI5 Front-End Developer (UX Focus)",
+            "company": "ITproposal B.V.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-19",
+            "language": "en",
+            "featured": false,
+            "url": "https://vacaturebank-zuidwestnederland.nl/vacature/1052864/sap-fiori-sapui5-front-end-developer-ux-focus-eindhoven",
+            "description": "We are seeking an experienced SAP Fiori / SAPUI5 Front-End Developer with strong UX development skills to join a high-performing digital team. The role involves translating UX wireframes into scalable, high-performance front-end solutions aligned with enterprise design systems and SAPUI5 framework standards. You will collaborate closely with UX/UI specialists to deliver secure, reusable, and u"
+        },
+        {
+            "title": "Mechanisch operator procesindustrie",
+            "company": "Carrière Personeelsdiensten B.V.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-19",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68400767",
+            "description": ""
+        },
+        {
+            "title": "Senior Embedded Software Engineer",
+            "company": "Brunel International N.V.",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-19",
+            "language": "en",
+            "featured": false,
+            "url": "https://devitjobs.nl/en/jobs/Brunel-Senior-Embedded-Software-Engineer",
+            "description": ""
+        },
+        {
+            "title": "IT Services Engineer",
+            "company": "Prodrive Technologies",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-18",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.nationalevacaturebank.nl/vacature/81728331-f3ec-41d2-8486-6faecefe85db/technical-support-engineer",
+            "description": "+ Projects for students IT Services Engineer The Netherlands - Eindhoven | + IT Services Engineer If you are enthusiastic about driving positive change and eager to shape the future of technology in a dynamic, international environment, we invite you to join our IT Services team. We are Prodrive Technologies We are dedicated to creating meanin"
+        },
+        {
+            "title": "Quality Engineer - Eindhoven",
+            "company": "Advantech",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-18",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=67f9cd2e2ceed9d5",
+            "description": "* Handle and manage customer complaints, lead customer meetings, and oversee product-related requests * Drive structured problem-solving through CAPA and 8D methodologies * Translate customer requirements into measurable quality characteristics and process controls * Prepare compliance documentation including CE Declarations of Conformity and related certificates (RoHS II, CE EMC)"
+        },
+        {
+            "title": "Business development manager",
+            "company": "Galvano Metaalhandel",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-18",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/werkzoekenden/vacatures/68052333",
+            "description": ""
+        },
+        {
+            "title": "Software ontwikkelaar",
+            "company": "2M Engineering",
+            "location": "Valkenswaard",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-18",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/werkzoekenden/vacatures/67739049",
+            "description": "Environmental & Water Platforms - Wastewater Monitoring Sensor - - Environmental & Water Platforms - Wastewater Monitoring Sensor Point-of-Care Diagnostics Platelet Counter Point of Care DevicePlatelet Counter Point of Care Device The Challenge of Point-of-Care Diagnostics Developing PoC diagnostic devices involves more than translating a sensing principle into hardware. Typical cha"
+        },
+        {
+            "title": "Software ontwikkelaar",
+            "company": "Yacht",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-18",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/werkzoekenden/vacatures/68053137",
+            "description": ""
+        },
+        {
+            "title": "Researcher: Quantum design kits In Photonic Integration Group",
+            "company": "Eindhoven University of Technology",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-18",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=2274aadb45a059bc",
+            "description": "* Develop the conceptual framework for describing the pilot production of quantum photonic integrated circuits from the designer perspective with process design kits (PDKs). * Develop methods to quantitatively describe functional quantum elements in terms of their physical integration and design flow implementation. * Contribute to and accommodate relevant standardisation initiatives, in"
+        },
+        {
+            "title": "Controls Engineer",
+            "company": "TMC",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-18",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=67b01580b842a17b",
+            "description": "As a Control Engineer, you will be responsible for the design, modeling, and implementation of high-precision control strategies for complex mechatronic systems. You will operate at the intersection of mechanics, electronics, and software, translating system dynamics into robust and high-performance control solutions. You will work closely with system architects, mechanical designers, electronics"
+        },
+        {
+            "title": "Finance operations process expert - strategic initiatives",
+            "company": "ASML",
+            "location": "Veldhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-18",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=58639786a42e9e4e",
+            "description": "As a finance operations process expert for strategic initiatives, you will leverage your strong experience in accounting, control and compliance to improve, standardize and automate our processes, connecting the dots across functions and systems. You will drive strategic initiatives in the accounting processes within Finance Operations, ensuring these are connected flawlessly to the related busine"
+        },
+        {
             "title": "Electrical Engineer - Power Conversion",
             "company": "Prodrive Technologies",
             "location": "Eindhoven",
@@ -6768,6 +7212,18 @@
             "featured": false,
             "url": "https://prodrive-technologies.com/careers/vacancies/electrical-engineer-power-conversion/",
             "description": "* Perform product development of electronics from start-to-end * Perform component selection and integration of electronic components and design a PCBA * Integrate best practices in design for EMC, design for safety, design for manufacturability * Document design choices, perform design simulations and analysis using tools (MATLAB, LTSPICE) * Contribute to risk managemen"
+        },
+        {
+            "title": "HR Internship: Well-being team",
+            "company": "ASML",
+            "location": "Veldhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-18",
+            "language": "en",
+            "featured": false,
+            "url": "https://magnet.me/en/opportunity/981209/computer-science-internship--migration-of-code-generator",
+            "description": "The HR Well-being team at ASML is dedicated to supporting employees in maintaining their health, engagement and sustainable performance within a highly demanding, fast-growing high-tech environment. ASML's success depends on highly skilled professionals who operate under continuous innovation pressure, making employee well-being essential for retention, productivity and long-term business success."
         },
         {
             "title": "Projectleider ict",
@@ -6874,20 +7330,8 @@
             "date": "2026-02-18",
             "language": "en",
             "featured": false,
-            "url": "https://www.werk.nl/nl/vacatures/68048473",
+            "url": "https://www.werk.nl/nl/vacatures/68583244",
             "description": ""
-        },
-        {
-            "title": "IT Services Engineer",
-            "company": "Prodrive Technologies",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-18",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.nationalevacaturebank.nl/vacature/81728331-f3ec-41d2-8486-6faecefe85db/technical-support-engineer",
-            "description": "+ Projects for students IT Services Engineer The Netherlands - Eindhoven | + IT Services Engineer If you are enthusiastic about driving positive change and eager to shape the future of technology in a dynamic, international environment, we invite you to join our IT Services team. We are Prodrive Technologies We are dedicated to creating meanin"
         },
         {
             "title": "Mechanisch operator procesindustrie",
@@ -6900,102 +7344,6 @@
             "featured": false,
             "url": "https://www.werk.nl/nl/vacatures/68482732",
             "description": "Do you enjoy working in a high-tech environment where precision and quality are essential? As a Cleanroom Operator (Material Handler), you will work in an advanced cleanroom, contributing to the production of groundbreaking technologies. In this unique workspace, you'll be surrounded by the latest equipment and collaborate with a dedicated team of professionals who share your passion for technolog"
-        },
-        {
-            "title": "HR Internship: Well-being team",
-            "company": "ASML",
-            "location": "Veldhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-18",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=12415b2cd7f7f737",
-            "description": "The HR Well-being team at ASML is dedicated to supporting employees in maintaining their health, engagement and sustainable performance within a highly demanding, fast-growing high-tech environment. ASML's success depends on highly skilled professionals who operate under continuous innovation pressure, making employee well-being essential for retention, productivity and long-term business success."
-        },
-        {
-            "title": "Quality Engineer - Eindhoven",
-            "company": "Advantech",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-18",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=67f9cd2e2ceed9d5",
-            "description": "* Handle and manage customer complaints, lead customer meetings, and oversee product-related requests * Drive structured problem-solving through CAPA and 8D methodologies * Translate customer requirements into measurable quality characteristics and process controls * Prepare compliance documentation including CE Declarations of Conformity and related certificates (RoHS II, CE EMC)"
-        },
-        {
-            "title": "Business development manager",
-            "company": "Galvano Metaalhandel",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-18",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werk.nl/werkzoekenden/vacatures/68052333",
-            "description": ""
-        },
-        {
-            "title": "Software ontwikkelaar",
-            "company": "2M Engineering",
-            "location": "Valkenswaard",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-18",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werk.nl/werkzoekenden/vacatures/67739049",
-            "description": "Environmental & Water Platforms - Wastewater Monitoring Sensor - - Environmental & Water Platforms - Wastewater Monitoring Sensor Point-of-Care Diagnostics Platelet Counter Point of Care DevicePlatelet Counter Point of Care Device The Challenge of Point-of-Care Diagnostics Developing PoC diagnostic devices involves more than translating a sensing principle into hardware. Typical cha"
-        },
-        {
-            "title": "Software ontwikkelaar",
-            "company": "Yacht",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-18",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werk.nl/werkzoekenden/vacatures/68053137",
-            "description": ""
-        },
-        {
-            "title": "Researcher: Quantum design kits In Photonic Integration Group",
-            "company": "Eindhoven University of Technology",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-18",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=2274aadb45a059bc",
-            "description": "* Develop the conceptual framework for describing the pilot production of quantum photonic integrated circuits from the designer perspective with process design kits (PDKs). * Develop methods to quantitatively describe functional quantum elements in terms of their physical integration and design flow implementation. * Contribute to and accommodate relevant standardisation initiatives, in"
-        },
-        {
-            "title": "Controls Engineer",
-            "company": "TMC",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-18",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=67b01580b842a17b",
-            "description": "As a Control Engineer, you will be responsible for the design, modeling, and implementation of high-precision control strategies for complex mechatronic systems. You will operate at the intersection of mechanics, electronics, and software, translating system dynamics into robust and high-performance control solutions. You will work closely with system architects, mechanical designers, electronics"
-        },
-        {
-            "title": "Finance operations process expert - strategic initiatives",
-            "company": "ASML",
-            "location": "Veldhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-18",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=58639786a42e9e4e",
-            "description": "As a finance operations process expert for strategic initiatives, you will leverage your strong experience in accounting, control and compliance to improve, standardize and automate our processes, connecting the dots across functions and systems. You will drive strategic initiatives in the accounting processes within Finance Operations, ensuring these are connected flawlessly to the related busine"
         },
         {
             "title": "Senior Project Manager Light Industry",
@@ -7034,18 +7382,6 @@
             "description": "In this role as Principal Regulatory Affairs Specialist you will become part of a dynamic environment where latest technologies like augmented reality, artificial intelligence, cloud computing and robotics are used to create clinical and/or economical value in the field of diagnostic and interventional imaging. You will be a member of the IGT-S regulatory team which is part of the global Philip"
         },
         {
-            "title": "BIM modelleur",
-            "company": "",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-16",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werk.nl/nl/vacatures/68455702",
-            "description": "Are you passionate about designing electrical systems in building projects using the latest BIM and Revit technologies? Trinamics is looking for an experienced Revit Modeler/BIM Technician specializing in electrical building systems. You'll play a crucial role in designing, modeling, and optimizing electrical installations for diverse building projects. Working in close collaboration with engineer"
-        },
-        {
             "title": "Production Employee IT",
             "company": "APS Personeelservices",
             "location": "Son",
@@ -7056,6 +7392,18 @@
             "featured": false,
             "url": "https://nl.indeed.com/viewjob?jk=509e0a3d43a3cc74",
             "description": "Are you looking to join a fast-growing, multicultural company in Eindhoven where teamwork, a positive atmosphere, and development go hand in hand? Do you have basic computer knowledge and enjoy working in a technical environment? Then this role is a great match for you! As part of this team, you work in a dedicated area where all incoming IT products containing data are processed. You make sur"
+        },
+        {
+            "title": "BIM modelleur",
+            "company": "",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-16",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/68455702",
+            "description": "Are you passionate about designing electrical systems in building projects using the latest BIM and Revit technologies? Trinamics is looking for an experienced Revit Modeler/BIM Technician specializing in electrical building systems. You'll play a crucial role in designing, modeling, and optimizing electrical installations for diverse building projects. Working in close collaboration with engineer"
         },
         {
             "title": "Data Analyst",
@@ -7104,6 +7452,30 @@
             "featured": false,
             "url": "https://www.werk.nl/nl/vacatures/68011852",
             "description": "We are looking for a skilled and eager Embedded (Firmware) Engineer to join our versatile and cross-cultural Scrum team. You will be co-responsible for the development and maintenance of a wide range of solutions-from embedded firmware for Lumosa's EV chargers and LED lighting to internal tooling that powers our organization and manufacturing operations. As a Embedded (Firmware) Engineer, you w"
+        },
+        {
+            "title": "Scrummaster",
+            "company": "Lumosa LED",
+            "location": "Son en Breugel",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-14",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.nationalevacaturebank.nl/vacature/9206a480-1e90-49f6-a31c-68d600c8ec01/scrum-master",
+            "description": "We are looking for a skilled and eager Team Lead to join our versatile and international Scrum team. The team develops a wide range of solutions-from embedded firmware for Lumosa's EV chargers and LED lighting to a cloud-based portal and app for our installation partners and the internal tooling that powers our organization and manufacturing operations. As a Scrum Master, you will be the fa"
+        },
+        {
+            "title": "Team Lead Software",
+            "company": "Lumosa",
+            "location": "Son",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-14",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.nationalevacaturebank.nl/vacature/9d4661d4-80b0-4f55-8651-a72008265c3a/team-lead-role-may-not-require-a",
+            "description": "We are looking for a skilled and eager Team Lead to join our versatile and international Scrum team. The team develops a wide range of solutions-from embedded firmware for Lumosa's EV chargers and LED lighting to a cloud-based portal and app for our installation partners and the internal tooling that powers our organization and manufacturing operations. The Team Lead in our software team is a"
         },
         {
             "title": "Product Owner",
@@ -7238,30 +7610,6 @@
             "description": "We believe in partnerships. In early-stage involvement, co-development, creating value and shifting forward together. We have a crystal clear vision. We work transparently and share our talent, knowledge and skills. We are driven to find out how the world works. Eager to innovate, design, optimize and spark new growth. For all of our team members and customers. We are an innovative high-tec"
         },
         {
-            "title": "Scrummaster",
-            "company": "Lumosa LED",
-            "location": "Son en Breugel",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-14",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.nationalevacaturebank.nl/vacature/9206a480-1e90-49f6-a31c-68d600c8ec01/scrum-master",
-            "description": "We are looking for a skilled and eager Team Lead to join our versatile and international Scrum team. The team develops a wide range of solutions-from embedded firmware for Lumosa's EV chargers and LED lighting to a cloud-based portal and app for our installation partners and the internal tooling that powers our organization and manufacturing operations. As a Scrum Master, you will be the fa"
-        },
-        {
-            "title": "Team Lead Software",
-            "company": "Lumosa",
-            "location": "Son",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-14",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.nationalevacaturebank.nl/vacature/9d4661d4-80b0-4f55-8651-a72008265c3a/team-lead-role-may-not-require-a",
-            "description": "We are looking for a skilled and eager Team Lead to join our versatile and international Scrum team. The team develops a wide range of solutions-from embedded firmware for Lumosa's EV chargers and LED lighting to a cloud-based portal and app for our installation partners and the internal tooling that powers our organization and manufacturing operations. The Team Lead in our software team is a"
-        },
-        {
             "title": "Mechanisch operator procesindustrie",
             "company": "Wiertz Personeelsdiensten",
             "location": "Eindhoven",
@@ -7282,7 +7630,7 @@
             "date": "2026-02-13",
             "language": "en",
             "featured": false,
-            "url": "https://www.werk.nl/nl/vacatures/68509600",
+            "url": "https://www.werk.nl/nl/vacatures/68559335",
             "description": ""
         },
         {
@@ -7354,7 +7702,7 @@
             "date": "2026-02-13",
             "language": "en",
             "featured": false,
-            "url": "https://www.werk.nl/nl/vacatures/68541654",
+            "url": "https://www.werk.nl/nl/vacatures/68551279",
             "description": ""
         },
         {
@@ -7514,18 +7862,6 @@
             "description": "As a EV Charging Support Engineer, you will be the primary point of contact for service-related inquiries for our Peblar EV chargers, especially for our growing B2B customer base in the Benelux. You'll deliver exceptional technical support and customer service in Dutch, English, and preferably French, ensuring a seamless experience for our direct customers. You'll troubleshoot issues, resolve case"
         },
         {
-            "title": "Software ontwikkelaar",
-            "company": "DAF Trucks",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-10",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werk.nl/nl/vacatures/67949742",
-            "description": "Development of an on board diagnostic to differentiate between belt slip monitoring and broken or damaged pulley - Locatie Eindhoven - Afdeling Internships Eindhoven - Fulltime - Opleidingsniveau Master - Contracttype Stage contract Functiebeschrijving The current calibration process for Heavy Duty Diesel Engine Diagnostics is encountering many challenges, ranging from maximizing driver c"
-        },
-        {
             "title": "Open Application - Structural Engineer/ Modeller (Industry & Buildings)",
             "company": "Haskoning",
             "location": "Eindhoven",
@@ -7536,6 +7872,30 @@
             "featured": false,
             "url": "https://magnet.me/en/opportunity/960206/open-application--structural-engineer--modeller--industry---buildings-",
             "description": "Create a profile and receive smart job recommendations based on your liked jobs. Create profile Are you passionate about structural design, modelling and engineering within the industrial and building environment? At Haskoning, we are always eager to meet talented structural engineers and modellers who want to contribute to sustainable, high-quality projects in our Industry & Buildings"
+        },
+        {
+            "title": "Mechanisch operator procesindustrie",
+            "company": "WerkTalent",
+            "location": "Eersel",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-10",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=e5df947f3489ef31",
+            "description": ""
+        },
+        {
+            "title": "Software ontwikkelaar",
+            "company": "DAF Trucks",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-10",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/nl/vacatures/67949742",
+            "description": "Development of an on board diagnostic to differentiate between belt slip monitoring and broken or damaged pulley - Locatie Eindhoven - Afdeling Internships Eindhoven - Fulltime - Opleidingsniveau Master - Contracttype Stage contract Functiebeschrijving The current calibration process for Heavy Duty Diesel Engine Diagnostics is encountering many challenges, ranging from maximizing driver c"
         },
         {
             "title": "CNC-metaalsnijder",
@@ -7598,18 +7958,6 @@
             "description": ""
         },
         {
-            "title": "Mechanisch operator procesindustrie",
-            "company": "WerkTalent",
-            "location": "Eersel",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-10",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=e5df947f3489ef31",
-            "description": ""
-        },
-        {
             "title": "Job in Germany: IT System Administrator (m/f/d) with focus on network",
             "company": "Afdrukken E-mailen",
             "location": "Veldhoven",
@@ -7644,6 +7992,18 @@
             "featured": false,
             "url": "https://hightechcampus.com/vacancies/usono/quality-engineer",
             "description": "We are seeking a hands-on and experienced quality and regulatory engineer to enhance and manage our quality system and ensure regulatory compliance. Usono has a ISO13485-compliant quality management system and a CE-marked product (ProbeFix Dynamic). Multiple products are under development, including a software proposition. In this role (3-4 days/week) you will be responsible for developing and"
+        },
+        {
+            "title": "Customer Success Engineer (m/f/d)",
+            "company": "MathWorks",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-08",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=19072ecfbdb55508",
+            "description": "Are you a self-driver with a background in engineering or sciences passionate about impacting education and research? Do you enjoy tackling technical problems and interacting with people? Read on. In this role you collaborate with our reselling partners and university customers in EMEA to understand and solve their technical and business challenges. You will help paint a vision of how MathWork"
         },
         {
             "title": "hydrologist",
@@ -7692,18 +8052,6 @@
             "featured": false,
             "url": "https://www.jobsonline.nl/vacature/job-in-germany-it-support-specialist-all-genders--veldhoven/",
             "description": "support and advise users on their questions regarding technical applications. Through your analytical view, you contribute to the optimization and continuous improvement of our processes. As an IT Support Specialist, you are the contact person for various applications such as Microsoft 365, VPN, VMware Horizon on platforms such as Windows, macOS, Android and iOS. You support the device lifecycle p"
-        },
-        {
-            "title": "Customer Success Engineer (m/f/d)",
-            "company": "MathWorks",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-08",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=19072ecfbdb55508",
-            "description": "Are you a self-driver with a background in engineering or sciences passionate about impacting education and research? Do you enjoy tackling technical problems and interacting with people? Read on. In this role you collaborate with our reselling partners and university customers in EMEA to understand and solve their technical and business challenges. You will help paint a vision of how MathWork"
         },
         {
             "title": "Job in Germany: Product Owner EMM / MDM (m/w/d)",
@@ -7850,6 +8198,42 @@
             "description": "As System Architect - Camera & Imaging Systems, you define and own the end-to-end architecture, performance, and technical coherence of advanced camera and imaging solutions. You operate at the intersection of precision optics, image sensors, electronics, firmware, and image processing. In this role, you translate customer and application requirements into high-performance, manufacturable, and"
         },
         {
+            "title": "Workpreparation (Test Engineer) PCBA",
+            "company": "",
+            "location": "Son en Breugel",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-06",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werkeninderegio.nl/vacatures/technician-assembler-two-shifts-son-en-breugel-26185-1772176666-c2408#contact",
+            "description": "As a Work Preparation (Test Engineer) for Printed Circuit Board Assemblies (PCBA), you will play a key role in preparing, optimizing, and supporting manufacturing test processes for both new and existing PCBA products. You will collaborate closely with design engineers, process specialists, and production teams to ensure products meet the highest standards of quality, manufacturability, and perfor"
+        },
+        {
+            "title": "Wood Operator Machining in Eindhoven",
+            "company": "Actief Werkt!",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-06",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/werkzoekenden/vacatures/68053586",
+            "description": "In this role, you are responsible for operating CNC machines and producing high-quality wooden products. Your role is crucial for ensuring smooth production and maintaining the quality of the products. Without your skills, we can not meet the high standards the company's customers expect Your will be responsible for: * Correctly setting up and operating the machines. * Quality contro"
+        },
+        {
+            "title": "Site Support Engineer",
+            "company": "Cognizant",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-06",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.werk.nl/werkzoekenden/vacatures/68097696",
+            "description": "As a Site Support Engineer, you will make an impact by ensuring smooth, high-quality IT support operations for our clients. You will be a valued member of the Infrastructure Services team and work collaboratively with transition leads, field engineers, service managers, and customer stakeholders., * Support EUC Field Service transition activities and contribute to ongoing service improvement."
+        },
+        {
             "title": "Site Support Engineer",
             "company": "Cognizant",
             "location": "Eindhoven",
@@ -7884,18 +8268,6 @@
             "featured": false,
             "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/NL-SON-EN-BREUGEL-EKKERSRIJT-2052/Field-Specialist--PPS_R160036",
             "description": "Baker Hughes Pre-commissioning and maintenance (P&M) supports the full lifecycle of customers' asset from pre-commissioning to decommissioning. We help to reduce future corrosion, improve efficiency and maximize throughput. Our engineered solutions for pre-commissioning, commissioning, and maintenance shutdowns include specialized services for the oil and gas, power generation, metals and mining,"
-        },
-        {
-            "title": "Workpreparation (Test Engineer) PCBA",
-            "company": "",
-            "location": "Son en Breugel",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-06",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werkeninderegio.nl/vacatures/technician-assembler-two-shifts-son-en-breugel-26185-1772176666-c2408#contact",
-            "description": "As a Work Preparation (Test Engineer) for Printed Circuit Board Assemblies (PCBA), you will play a key role in preparing, optimizing, and supporting manufacturing test processes for both new and existing PCBA products. You will collaborate closely with design engineers, process specialists, and production teams to ensure products meet the highest standards of quality, manufacturability, and perfor"
         },
         {
             "title": "Mobile Lead - Design Systems Team",
@@ -7994,28 +8366,16 @@
             "description": "You'll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible-while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the healt"
         },
         {
-            "title": "Wood Operator Machining in Eindhoven",
-            "company": "Actief Werkt!",
+            "title": "Calibration Diagnostics Engineer",
+            "company": "Evoke",
             "location": "Eindhoven",
             "province": "Province of Noord-Brabant",
             "region": "Brainport Eindhoven region",
-            "date": "2026-02-06",
+            "date": "2026-02-05",
             "language": "en",
             "featured": false,
-            "url": "https://www.werk.nl/werkzoekenden/vacatures/68053586",
-            "description": "In this role, you are responsible for operating CNC machines and producing high-quality wooden products. Your role is crucial for ensuring smooth production and maintaining the quality of the products. Without your skills, we can not meet the high standards the company's customers expect Your will be responsible for: * Correctly setting up and operating the machines. * Quality contro"
-        },
-        {
-            "title": "Site Support Engineer",
-            "company": "Cognizant",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-06",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.werk.nl/werkzoekenden/vacatures/68097696",
-            "description": "As a Site Support Engineer, you will make an impact by ensuring smooth, high-quality IT support operations for our clients. You will be a valued member of the Infrastructure Services team and work collaboratively with transition leads, field engineers, service managers, and customer stakeholders., * Support EUC Field Service transition activities and contribute to ongoing service improvement."
+            "url": "https://vacaturebank-zuidwestnederland.nl/vacature/1001739/calibration-diagnostics-engineer-eindhoven",
+            "description": "As Calibration Diagnostics Engineer, you'll design diagnostic calibration strategies, ensuring OBD compliance during production and development. Effective communication and adherence to defined standards are key aspects of this position. As a vigilant process guardian, you'll monitor the development and validation of the OBD system, following process guidelines. Your role extends to developing too"
         },
         {
             "title": "Dynamics Analyst",
@@ -8078,18 +8438,6 @@
             "description": "A salary between 3000 and 3500 gross per month depending on experience, a shift allowance of 14% and no less than 25 vacation days plus 13 ADV days on a full-time basis: this is a job that really pays off. As a welding robot operator, you will work with modern technology in a clean, well-equipped working environment and be part of a close-knit team. You will work in a two-shift system and have the"
         },
         {
-            "title": "Calibration Diagnostics Engineer",
-            "company": "Evoke",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-05",
-            "language": "en",
-            "featured": false,
-            "url": "https://vacaturebank-zuidwestnederland.nl/vacature/1001739/calibration-diagnostics-engineer-eindhoven",
-            "description": "As Calibration Diagnostics Engineer, you'll design diagnostic calibration strategies, ensuring OBD compliance during production and development. Effective communication and adherence to defined standards are key aspects of this position. As a vigilant process guardian, you'll monitor the development and validation of the OBD system, following process guidelines. Your role extends to developing too"
-        },
-        {
             "title": "Internship",
             "company": "TNO",
             "location": "Eindhoven",
@@ -8112,6 +8460,18 @@
             "featured": false,
             "url": "https://nl.indeed.com/viewjob?jk=cf39ea497992cb83",
             "description": "As a Technical Lead, you are the architect of the future for our farm-out team. You look beyond the madness of the day and translate long-term visions and quarterly plans into concrete technical roadmaps. In close coordination with the functional architects, you determine what is needed to realize our ambitions, while maintaining the perfect balance between innovation and stability., Leading one o"
+        },
+        {
+            "title": "PhD position in algorithm and user-interface development for hybrid quantum computing",
+            "company": "Eindhoven University of Technology",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-04",
+            "language": "en",
+            "featured": false,
+            "url": "https://euraxess.ec.europa.eu/jobs/406509",
+            "description": "A meaningful job in a dynamic and ambitious university, in an interdisciplinary setting and within an international network. You will work on a beautiful, green campus within walking distance of the central train station. In addition, we offer you"
         },
         {
             "title": "Senior Network Engineer - Cisco SD-WAN (Viptela) in Eindhoven",
@@ -8210,16 +8570,16 @@
             "description": "* Working independently and within a design team to develop concept designs into practical, buildable structural solutions. * Performing structural calculations across various design phases, ensuring high-quality results. * Guiding structural engineers and modellers within your team. * Staying informed about new developments in the field and participating in relevant training."
         },
         {
-            "title": "PhD position in algorithm and user-interface development for hybrid quantum computing",
-            "company": "Eindhoven University of Technology",
+            "title": "Internship: AI-Powered Visual Demonstrations (non-thesis)",
+            "company": "Koninklijke Philips N.V.",
             "location": "Eindhoven",
             "province": "Province of Noord-Brabant",
             "region": "Brainport Eindhoven region",
             "date": "2026-02-04",
             "language": "en",
             "featured": false,
-            "url": "https://euraxess.ec.europa.eu/jobs/406509",
-            "description": "A meaningful job in a dynamic and ambitious university, in an interdisciplinary setting and within an international network. You will work on a beautiful, green campus within walking distance of the central train station. In addition, we offer you"
+            "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--AI-Powered-Visual-Demonstrations--non-thesis-_572733",
+            "description": "Philips is offering a practice-oriented internship opportunity within the Data & AI department department, located at the High Tech Campus in Eindhoven. This internship focuses on the applied use of AI-powered tools to create visual demonstrations that make complex technical deliverables understandable for non-technical audiences. The intern will support applied research activities, such as ex"
         },
         {
             "title": "Internship Hotel Management - NH Collection Eindhoven Centre",
@@ -8234,18 +8594,6 @@
             "description": "In this position, you provide support to the hotel manager and members of the management team through ad-hoc projects. You will also support the hotel manager in secretarial matters and are not afraid to tackle projects and challenges. Flexibility is key, as you will also perform the role of Manager on Duty, being responsible for the day-to-day operation within the hotel. This includes handling gu"
         },
         {
-            "title": "Field Service Technician",
-            "company": "TXM Recruit Ltd",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-02-03",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=20ee2a7c7bae9b32",
-            "description": "* Completion of allocated planned maintenance across site, both electrical and mechanical. * Respond to and analyse unscheduled downtime, with the ability to correct faults within a timely manner. * Working both mechanically and electrically on autonomous conveyor systems, storage retrieval systems, sortation equipment with associated electrical controls and any hydraulic/pneumatic syste"
-        },
-        {
             "title": "Maintenance employee 2-shift|€3045 bruto",
             "company": "WerkTalent",
             "location": "Eindhoven",
@@ -8256,6 +8604,18 @@
             "featured": false,
             "url": "https://nl.indeed.com/viewjob?jk=add59896f82a77b6",
             "description": "Would you like to play a major role in maintaining, checking and repairing advanced ASML boxes? Are you technically skilled and do you like to work with your hands? Then read on, because we are looking for an enthusiastic technical maintenance employee for a company in Eindhoven!, This company has put the search for a full time Maintenance employee in the hands of WerkTalent Eindhoven. The first i"
+        },
+        {
+            "title": "Field Service Technician",
+            "company": "TXM Recruit Ltd",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-02-03",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=20ee2a7c7bae9b32",
+            "description": "* Completion of allocated planned maintenance across site, both electrical and mechanical. * Respond to and analyse unscheduled downtime, with the ability to correct faults within a timely manner. * Working both mechanically and electrically on autonomous conveyor systems, storage retrieval systems, sortation equipment with associated electrical controls and any hydraulic/pneumatic syste"
         },
         {
             "title": "Analytical Development Analyst",
@@ -8328,6 +8688,30 @@
             "featured": false,
             "url": "https://vacant.nl/vacature/details/44603492/business-development-manager/eindhoven.html",
             "description": "Our Business Development Team is expanding! As our Business Development Manager you will be responsible for generating new opportunities, continually improving our market position and leading complex sales projects across Belgium & Netherlands . This is a perfect opportunity for a passionate individual with expertise in influential networking and sales project management within Contract Logist"
+        },
+        {
+            "title": "SCR Calibration Engineer",
+            "company": "Randstad",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-01-30",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.jobsonline.nl/vacature/scr-calibration-engineer-eindhoven/",
+            "description": "In this role within a world-class engine development center in Eindhoven, you act as the technical architect behind the next generation of powertrain solutions. You bridge the gap between high-end engine development and real-world production by orchestrating the data and logic required for global market release. Depending on your specific project, your focus will be: * Compliance & Homolo"
+        },
+        {
+            "title": "Calibration Verification Engineer",
+            "company": "Randstad",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-01-30",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.nationalevacaturebank.nl/vacature/8cc9f126-4670-4752-b8f5-b9a4826b087a/sytem-integration-engineer",
+            "description": "As an emission verification engineer, you will be part of a team which verifies our best-in-class engines and after treatments on emission performance under all conditions within the defined constraints. Your tasks * Develop heavy-duty diesel engines with focus on engine emission and after treatment performance verification * Verify integrated performance of many engine and after tre"
         },
         {
             "title": "Test- & Service engineer",
@@ -8426,30 +8810,6 @@
             "description": "The Department of Chemical Engineering and Chemistry at Eindhoven University of Technology (TU/e), The Netherlands, invites applications for tenure-track Assistant Professor positions. The Department seeks outstanding candidates in the broad field of chemical engineering, with a focus on process technology. Areas of interest include, but are not limited to, process systems engineering, process con"
         },
         {
-            "title": "SCR Calibration Engineer",
-            "company": "Randstad",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-01-30",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.jobsonline.nl/vacature/scr-calibration-engineer-eindhoven/",
-            "description": "In this role within a world-class engine development center in Eindhoven, you act as the technical architect behind the next generation of powertrain solutions. You bridge the gap between high-end engine development and real-world production by orchestrating the data and logic required for global market release. Depending on your specific project, your focus will be: * Compliance & Homolo"
-        },
-        {
-            "title": "Calibration Verification Engineer",
-            "company": "Randstad",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-01-30",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.nationalevacaturebank.nl/vacature/8cc9f126-4670-4752-b8f5-b9a4826b087a/sytem-integration-engineer",
-            "description": "As an emission verification engineer, you will be part of a team which verifies our best-in-class engines and after treatments on emission performance under all conditions within the defined constraints. Your tasks * Develop heavy-duty diesel engines with focus on engine emission and after treatment performance verification * Verify integrated performance of many engine and after tre"
-        },
-        {
             "title": "Field Service Engineer - Bude",
             "company": "Lightsource Bp",
             "location": "Budel",
@@ -8510,6 +8870,18 @@
             "description": "With Manufacturing Services we are looking for a strong expert who can get our Facility Lay out department to the next level. Due to the increase of production and the constant need to introduce new products in our factories we need to expand our buildings or re-allocate services to other buildings. The Project Lead - Facility Lay out Engineering reviews and challenges requirements for our"
         },
         {
+            "title": "Service technician",
+            "company": "Invite B.V.",
+            "location": "Deurne",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-01-28",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=b97456a0f89a2214",
+            "description": "In this position, you will be responsible for maintenance and repairs to trailers, sliding floors, tippers, and hydraulic systems. No day is the same: one day you might be working on a brake system, the next you might be welding aluminum structures or installing a hydraulic system on a truck. You will work with modern tools in a well-equipped workplace where quality and craftsmanship are paramount"
+        },
+        {
             "title": "Lead Usability Designer MRI",
             "company": "Koninklijke Philips N.V.",
             "location": "Best",
@@ -8544,18 +8916,6 @@
             "featured": false,
             "url": "https://www.jobsonline.nl/vacature/r-d-analyst-eindhoven/",
             "description": "Conducting R&D: testing the novel devices with a variety of (clinical) samples Experimental Design: Designing, planning experiments and developing experimental protocols and procedures to ensure accurate and reliable data collection. Data collection: Collecting data according to established protocols. Recording experimental observations, measurements, and results in a systemati"
-        },
-        {
-            "title": "Service technician",
-            "company": "Invite B.V.",
-            "location": "Deurne",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-01-28",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=b97456a0f89a2214",
-            "description": "In this position, you will be responsible for maintenance and repairs to trailers, sliding floors, tippers, and hydraulic systems. No day is the same: one day you might be working on a brake system, the next you might be welding aluminum structures or installing a hydraulic system on a truck. You will work with modern tools in a well-equipped workplace where quality and craftsmanship are paramount"
         },
         {
             "title": "Senior TypeScript Engineer\nSenior TypeScript Engineer",
@@ -8798,18 +9158,6 @@
             "description": ""
         },
         {
-            "title": "DevOps Engineer",
-            "company": "Topic Software Development",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-01-24",
-            "language": "en",
-            "featured": false,
-            "url": "https://vacancy.sioux.eu/vacancies/vacancy_senior_devops_engineer_342337_31.html",
-            "description": "Are you a driven and ambitious DevOps Engineer with a passion for automation, CI/CD, and state-of-the-art tooling? As a DevOps Engineer, you play a key role in enabling development teams to work efficiently by delivering stable, scalable, and automated build and deployment environments. Your Responsibilities · Select, implement, and manage cutting-edge DevOps tools and self-service soluti"
-        },
-        {
             "title": "Technical Sales Support - Hydrogen Rectifier",
             "company": "Prodrive Technologies",
             "location": "Eindhoven",
@@ -8820,6 +9168,18 @@
             "featured": false,
             "url": "https://nl.indeed.com/viewjob?jk=2d263528a9697d5d",
             "description": "If you are enthusiastic about driving positive change and eager to shape the future of technology in a dynamic, international environment, we invite you to join our Research and Development team. We are Prodrive Technologies We are dedicated to creating meaningful technologies that make the world work. Through our innovative solutions, we contribute to building a future where everyone can t"
+        },
+        {
+            "title": "DevOps Engineer",
+            "company": "Topic Software Development",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-01-24",
+            "language": "en",
+            "featured": false,
+            "url": "https://vacancy.sioux.eu/vacancies/vacancy_senior_devops_engineer_342337_31.html",
+            "description": "Are you a driven and ambitious DevOps Engineer with a passion for automation, CI/CD, and state-of-the-art tooling? As a DevOps Engineer, you play a key role in enabling development teams to work efficiently by delivering stable, scalable, and automated build and deployment environments. Your Responsibilities · Select, implement, and manage cutting-edge DevOps tools and self-service soluti"
         },
         {
             "title": "Process Engineer",
@@ -8870,6 +9230,30 @@
             "description": "Within the clients company cloud adoption is governed by enterprise standards, security, and compliance requirements defined by the Cloud Center of Excellence (CCoE). As a Cloud Onboarding Specialist, you enable workload teams to successfully onboard to the enterprise cloud platforms by guiding them through defined processes, governance frameworks, and required controls. You act as a process owner"
         },
         {
+            "title": "Work Planner",
+            "company": "STC Groep",
+            "location": "Eersel",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-01-23",
+            "language": "en",
+            "featured": false,
+            "url": "https://officevacatures.nl/vacature/details/544024/work-planner/eersel.html",
+            "description": "Job description: We are looking for a work planner for our client in Bladel! Our client is a supplier of stainless steel products for machine and equipment construction. This company has all (modern) production techniques in-house and quality is of paramount importance! The company profiles itself as ambitious, well organized and of high quality.Work: In this position you work to support the proje"
+        },
+        {
+            "title": "Production Planner",
+            "company": "STC Groep",
+            "location": "Eersel",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-01-23",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=bc086932da92ee7a",
+            "description": "Job description:As a production planner, you will be responsible for optimal planning within the customers' desired delivery time. You will identify bottlenecks and put out the right actions to the relevant departments. You are also responsible for the correctdistribution of possible outsourcing. All in all, a nice versatile job in which you will be the connecting link between the internal departm"
+        },
+        {
             "title": "Internship Booking Office - NH Conference Centre Koningshof",
             "company": "MINOR Hotels",
             "location": "Veldhoven",
@@ -8892,6 +9276,18 @@
             "featured": false,
             "url": "https://www.jobbird.com/nl/vacature/24394065-senior-mechanical-designer",
             "description": "As a senior mechanical designer at Nobleo, you translate the wishes of our customers into technical solutions. Designing and developing the mechanical architecture and layout, as well as defining mechanical subsystems, are crucial aspects of the role. Additionally, designing subsystems and leading the realisation and validation of technical solutions are important tasks. You cooperate with colleag"
+        },
+        {
+            "title": "Internship Duty Management - NH Conference Centre Koningshof",
+            "company": "MINOR Hotels",
+            "location": "Veldhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-01-23",
+            "language": "en",
+            "featured": false,
+            "url": "https://magnet.me/en/opportunity/974152/internship-duty-management---nh-conference-centre-koningshof",
+            "description": "During this internship you will become familiar with all facets of the hotel industry. First, you will work at all the departments to be trained. After that, you independently fulfil the role of Manager on Duty. You are part of the Management Team, and you are the first contact for guests. You assist guests with questions, comments and complaints and, if necessary, you assist at other departments"
         },
         {
             "title": "Equipment Engineer in Eindhoven bij Research & Development",
@@ -8918,28 +9314,16 @@
             "description": ""
         },
         {
-            "title": "Work Planner",
-            "company": "STC Groep",
-            "location": "Eersel",
+            "title": "Backend Developer",
+            "company": "OWOW",
+            "location": "Eindhoven",
             "province": "Province of Noord-Brabant",
             "region": "Brainport Eindhoven region",
             "date": "2026-01-23",
             "language": "en",
             "featured": false,
-            "url": "https://officevacatures.nl/vacature/details/544024/work-planner/eersel.html",
-            "description": "Job description: We are looking for a work planner for our client in Bladel! Our client is a supplier of stainless steel products for machine and equipment construction. This company has all (modern) production techniques in-house and quality is of paramount importance! The company profiles itself as ambitious, well organized and of high quality.Work: In this position you work to support the proje"
-        },
-        {
-            "title": "Production Planner",
-            "company": "STC Groep",
-            "location": "Eersel",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-01-23",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=bc086932da92ee7a",
-            "description": "Job description:As a production planner, you will be responsible for optimal planning within the customers' desired delivery time. You will identify bottlenecks and put out the right actions to the relevant departments. You are also responsible for the correctdistribution of possible outsourcing. All in all, a nice versatile job in which you will be the connecting link between the internal departm"
+            "url": "https://magnet.me/en/opportunity/968563/backend-developer",
+            "description": "OWOW is looking for an experienced Backend Developer who understands how to design clean, scalable, and future-proof backend architectures. You will build and maintain the systems that power our apps, websites, and platforms. You enjoy solving complex backend challenges, setting up cloud infrastructure, and implementing real-time communication features. You take ownership of your technical decisio"
         },
         {
             "title": "Internship Front Office - NH Conference Centre Koningshof",
@@ -8976,18 +9360,6 @@
             "featured": false,
             "url": "https://nl.indeed.com/viewjob?jk=ada4537ecc140bb8",
             "description": "You will have the opportunity to provide our guests with reliable experiences that combine value, location and your own human touch. You can join us in our quest to make every hotel stay remarkable by meeting the needs of guests looking for functional hotels & resorts with a natural and fresh style, doubled by friendly service. Become part of a brand that is like you: Functional, natural and down-"
-        },
-        {
-            "title": "Internship Duty Management - NH Conference Centre Koningshof",
-            "company": "MINOR Hotels",
-            "location": "Veldhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-01-23",
-            "language": "en",
-            "featured": false,
-            "url": "https://magnet.me/en/opportunity/974152/internship-duty-management---nh-conference-centre-koningshof",
-            "description": "During this internship you will become familiar with all facets of the hotel industry. First, you will work at all the departments to be trained. After that, you independently fulfil the role of Manager on Duty. You are part of the Management Team, and you are the first contact for guests. You assist guests with questions, comments and complaints and, if necessary, you assist at other departments"
         },
         {
             "title": "Internship Kitchen - NH Conference Centre Koningshof",
@@ -9158,6 +9530,18 @@
             "description": "As a Technician, you'll take charge of installing and improving packaging equipment, ensuring every component works flawlessly. Together with your colleagues, you'll turn engineering drawings into fully tested, ready-to-run systems for customers. Key responsibilities: * Assemble and fine-tune packaging systems, as well as machinery parts * Run performance tests on machines to guarantee t"
         },
         {
+            "title": "Azure Devops",
+            "company": "Avance",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-01-17",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.jobvertise.com/job?jobid=38416660",
+            "description": ""
+        },
+        {
             "title": "Technical Project Engineer",
             "company": "High Tech Campus Eindhoven",
             "location": "Eindhoven",
@@ -9314,6 +9698,18 @@
             "description": "As a Field Service Engineer, you are the primary technical contact for customers throughout the EMEA region. You are responsible for managing the entire service process, from system installation and testing to operator training and ongoing support. After installation, you'll ensure maximum system uptime through remote diagnostics, on-site maintenance, and upgrades. In the first few months, you'll"
         },
         {
+            "title": "Technician SMD",
+            "company": "APS Personeelservices",
+            "location": "Son en Breugel",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2026-01-07",
+            "language": "en",
+            "featured": false,
+            "url": "https://nl.indeed.com/viewjob?jk=b5721b0507f6cac6",
+            "description": "As a Technician, you'll earn a starting salary of € 3.055,- gross per month, including shift allowance. From day one, you'll benefit from a wide range of secondary employment benefits, such as on-site sports facilities including a gym and mountain bikes, and lunch or dinner provided in a modern company restaurant. You'll be responsible for the production and quality of high-end high-tech"
+        },
+        {
             "title": "Plastic foam assembly | €3045+ bruto in Eindhoven",
             "company": "WerkTalent",
             "location": "Eindhoven",
@@ -9336,18 +9732,6 @@
             "featured": false,
             "url": "https://www.jobsonline.nl/vacature/cleanroom-process-operator-daytime-yy2861-bruto-eindhoven/",
             "description": "In addition, your daily activities as a Cleanroom Process Operator consist of: * Cleaning of high tech parts according to instructions and protocols * Carrying out assembly and cleaning activities * Performing quality measurements * Working on the basis of work instructions and technical drawings * Carrying out quality measurements, possibly using samples Your working"
-        },
-        {
-            "title": "Technician SMD",
-            "company": "APS Personeelservices",
-            "location": "Son en Breugel",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2026-01-07",
-            "language": "en",
-            "featured": false,
-            "url": "https://nl.indeed.com/viewjob?jk=b5721b0507f6cac6",
-            "description": "As a Technician, you'll earn a starting salary of € 3.055,- gross per month, including shift allowance. From day one, you'll benefit from a wide range of secondary employment benefits, such as on-site sports facilities including a gym and mountain bikes, and lunch or dinner provided in a modern company restaurant. You'll be responsible for the production and quality of high-end high-tech"
         },
         {
             "title": "Technician (Dayshift)",
@@ -13310,6 +13694,18 @@
             "description": ""
         },
         {
+            "title": "CNC operator",
+            "company": "Covebo",
+            "location": "Geldrop",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2025-10-05",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.vacatureplaats.nl/vacature/cnc-operator-geldrop-covebo-E1994396243",
+            "description": "For a skilled CNC-Operator who enjoys working independently and ensuring top-quality production! Je nieuwe baan, * Set up, program, and operate CNC machines (Siemens controls) independently; * Manage multiple CNC and NC machines to meet production targets; * Produce precision wear-resistant parts based on technical drawings and specifications; * Perform quality checks using advan"
+        },
+        {
             "title": "Plastic foam assembly | €3045+ bruto",
             "company": "WerkTalent",
             "location": "Eindhoven",
@@ -13394,18 +13790,6 @@
             "description": "As an IT Delivery Manager for Asset Management & Pay Per Use, you will independently manage a dynamic IT Delivery Team, focusing on the continuity and continual development of services and applications related to our asset management solutions. You will carefully balance People, Process, and Technology to establish seamless solutions. This role relates to IT Applications supporting the CCO Custome"
         },
         {
-            "title": "Chief technology officer (cto) / co-founder at galuxea",
-            "company": "HighTechXL",
-            "location": "Eindhoven",
-            "province": "Province of Noord-Brabant",
-            "region": "Brainport Eindhoven region",
-            "date": "2025-09-28",
-            "language": "en",
-            "featured": false,
-            "url": "https://www.vacant.nl/vacature/details/40024387/chief-technology-officer-cto-co-founder-at-galuxea/eindhoven.html",
-            "description": "Galuxea is an innovative startup backed by Royal Philips and the HighTechXL venture builder program. We are revolutionizing biofouling prevention with a patented environmentally friendly technology utilizing low-intensity UV-C light integrated into a transparent surface. This groundbreaking solution prevents biofouling in various seawater-exposed applications, making a sustainable impact across in"
-        },
-        {
             "title": "Senior Equipment Engineer Epitaxy | Eindhoven",
             "company": "TNO",
             "location": "Eindhoven",
@@ -13416,6 +13800,18 @@
             "featured": false,
             "url": "https://www.vacant.nl/vacature/details/40699809/senior-equipment-engineer-epitaxy-eindhoven/eindhoven.html",
             "description": "As a Senior Equipment Engineer Epitaxy, you are responsible for installing, maintaining, and optimizing advanced production equipment within a cleanroom environment. Your work ensures stable and efficient manufacturing processes, supporting high-quality output at wafer scale. You will work closely with process engineers, suppliers, and other equipment specialists to maximize tool performance, impl"
+        },
+        {
+            "title": "Chief technology officer (cto) / co-founder at galuxea",
+            "company": "HighTechXL",
+            "location": "Eindhoven",
+            "province": "Province of Noord-Brabant",
+            "region": "Brainport Eindhoven region",
+            "date": "2025-09-28",
+            "language": "en",
+            "featured": false,
+            "url": "https://www.vacant.nl/vacature/details/40024387/chief-technology-officer-cto-co-founder-at-galuxea/eindhoven.html",
+            "description": "Galuxea is an innovative startup backed by Royal Philips and the HighTechXL venture builder program. We are revolutionizing biofouling prevention with a patented environmentally friendly technology utilizing low-intensity UV-C light integrated into a transparent surface. This groundbreaking solution prevents biofouling in various seawater-exposed applications, making a sustainable impact across in"
         },
         {
             "title": "Data integration lead, patient monitoring",
