@@ -1,6 +1,10 @@
 import requests
 import json
 import time
+import urllib3
+
+# Suppress InsecureRequestWarning when using verify=False
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def download_brainport_jobs():
     base_url = "https://brainporteindhoven.com/en/discover-brainport/work/current-tech-it-vacancies-in-brainport-eindhoven"
@@ -24,7 +28,7 @@ def download_brainport_jobs():
         params["tx_brainportjobs_jobslist[page]"] = page
         
         try:
-            response = requests.get(base_url, params=params)
+            response = requests.get(base_url, params=params, verify=False)
             response.raise_for_status() # Check for HTTP errors
             
             data = response.json()
